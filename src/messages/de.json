@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "locale": "Deutsch",
+    "siteName": "Polonia Granit",
+    "tagline": "Steinmetzbetrieb in Zgorzelec, direkt an der Grenze"
+  },
+  "nav": {
+    "about": "Über uns",
+    "offer": "Leistungen",
+    "tombstones": "Grabsteine",
+    "countertops": "Arbeitsplatten",
+    "windowsills": "Fensterbänke",
+    "stairs": "Treppen",
+    "fireplaces": "Kamine",
+    "materials": "Steinsorten",
+    "stones": "Steinkatalog",
+    "granites": "Granitplatten",
+    "conglomerates": "Quarzkonglomerate Pacific",
+    "kitchenViz": "Stein in der Küche",
+    "visualisations": "Visualisierungen",
+    "gallery": "Referenzen",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "wholesale": "Großhandel",
+    "privacy": "Datenschutz",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "skipToContent": "Zum Inhalt springen",
+    "changeLanguage": "Sprache wechseln",
+    "externalHint": "öffnet sich in einem neuen Tab"
+  },
+  "common": {
+    "call": "Anrufen",
+    "callUs": "Rufen Sie uns an",
+    "writeToUs": "Schreiben Sie uns",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "address": "Adresse",
+    "openingHours": "Öffnungszeiten",
+    "weekdays": "Montag – Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag",
+    "closed": "geschlossen",
+    "askForQuote": "Angebot anfordern",
+    "quoteShort": "Angebot",
+    "freeQuote": "Kostenloses Angebot",
+    "seeOffer": "Leistungen ansehen",
+    "seeGallery": "Referenzen ansehen",
+    "seeMore": "Mehr erfahren",
+    "backToTop": "Nach oben",
+    "whatsappCta": "Per WhatsApp schreiben",
+    "years": "Jahre"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Steinmetz Zgorzelec · Familienbetrieb",
+      "title": "Granit, der Generationen überdauert",
+      "subtitle": "Wir planen, fertigen und montieren Grabsteine, Arbeitsplatten, Fensterbänke und Treppen aus Naturstein. Eigene Produktion und eigener Plattengroßhandel bedeuten kürzere Termine und Preise ohne Zwischenhändler.",
+      "ctaPrimary": "Angebot anfordern",
+      "ctaSecondary": "Referenzen ansehen",
+      "badgeExperience": "über {years} Jahre am Markt",
+      "badgeOwnProduction": "Eigene Produktion und Montage",
+      "badgeMarkets": "Polen · Deutschland · Tschechien"
+    },
+    "intro": {
+      "eyebrow": "Über uns",
+      "title": "Ein Familienbetrieb direkt an der Grenze",
+      "lead": "„Polonia Granit“ ist ein Familienunternehmen, das sowohl auf dem polnischen als auch auf dem ausländischen Markt tätig ist. Wir sind auf die Herstellung und Montage von Grabsteinen, Fensterbänken, Treppen und Arbeitsplatten aus Granit spezialisiert.",
+      "body": "Wir bieten das gesamte Leistungsspektrum eines Steinmetzbetriebs: eigene Produktion, Montage und vollständige Endbearbeitung. Naturstein ist für uns ein Material mit sehr breitem Anwendungsbereich, für das wir immer neue Lösungen suchen. Dank langjähriger Erfahrung helfen wir Ihnen, das passende Material zu wählen und die richtige Entscheidung zu treffen.",
+      "cta": "Unsere Geschichte kennenlernen"
+    },
+    "offer": {
+      "eyebrow": "Leistungen",
+      "title": "Was wir aus Stein fertigen",
+      "subtitle": "Fünf Produktgruppen. Jede realisieren wir vom Aufmaß beim Kunden über die Bearbeitung in unserer Werkstatt bis zur Montage vor Ort.",
+      "items": {
+        "tombstones": {
+          "title": "Grabsteine aus Granit",
+          "description": "Einzel-, Doppel-, Urnen- und Kindergrabsteine. Moderne und klassische Entwürfe, auch nach deutschen und tschechischen Vorgaben."
+        },
+        "countertops": {
+          "title": "Küchen- und Badplatten",
+          "description": "Granit, Marmor, Quarzit und Quarzkonglomerat. Widerstandsfähig gegen Hitze, Kratzer und Verfärbungen."
+        },
+        "windowsills": {
+          "title": "Fensterbänke aus Granit",
+          "description": "Innen- und Außenfensterbänke, beständig gegen sauren Regen und UV-Strahlung. Oberfläche poliert, geschliffen, gebürstet oder geflammt."
+        },
+        "stairs": {
+          "title": "Treppen aus Granit",
+          "description": "Innen- und Außentreppen mit Rutschhemmung, gefertigt nach Ihrem Entwurf und Aufmaß."
+        },
+        "fireplaces": {
+          "title": "Kaminverkleidungen",
+          "description": "Verkleidungen aus Granit und Marmor für offene Kamine, Kamineinsätze und freistehende Öfen."
+        }
+      }
+    },
+    "materials": {
+      "eyebrow": "Steinsorten",
+      "title": "Zwei Kataloge, zwei unterschiedliche Materialien",
+      "subtitle": "Granit für Grabsteine, Fensterbänke und Treppen. Quarzkonglomerat Pacific für Arbeitsplatten und Bäder. Jedes Material hat einen eigenen Katalog — ohne vermischte Sorten.",
+      "granites": {
+        "title": "Granitplatten",
+        "description": "Mehrere Dutzend Sorten aus Steinbrüchen. Jede Platte ist einzigartig — bei größeren Aufträgen lohnt es sich, sie vor Ort auszusuchen."
+      },
+      "conglomerates": {
+        "title": "Quarzkonglomerate Pacific",
+        "description": "Wiederholgenaues Muster über die ganze Fläche. Dasselbe Dekor, das Sie in der Visualisierung sehen, kommt auf die Küchenarbeitsplatte."
+      }
+    },
+    "advantages": {
+      "eyebrow": "Warum wir",
+      "title": "Sechs Gründe, die für uns sprechen",
+      "items": {
+        "quality": {
+          "title": "Materialqualität",
+          "description": "Granit ist als Naturmaterial beständig, funktional und pflegeleicht. Er enthält keine chemischen Zusätze."
+        },
+        "range": {
+          "title": "Breites Sortiment",
+          "description": "Mehrere Dutzend Steinsorten aus der ganzen Welt – so lassen sich Farbe und Struktur auf jeden Innenraum abstimmen."
+        },
+        "experience": {
+          "title": "Über {years} Jahre Erfahrung",
+          "description": "Über zwei Jahrzehnte am Markt stehen für Material in bester Qualität und für zuverlässig ausgeführte Arbeiten."
+        },
+        "wholesale": {
+          "title": "Eigener Plattengroßhandel",
+          "description": "Wir importieren direkt aus Steinbrüchen in China und Indien. Ohne Zwischenhändler und ohne Wartezeit auf Lieferungen."
+        },
+        "measurement": {
+          "title": "Aufmaß beim Kunden",
+          "description": "Wir kommen zu Ihnen und messen den Einbau auf, auch ungewöhnliche Formen und Bögen. Die Platte passt beim ersten Mal."
+        },
+        "installation": {
+          "title": "Montage und Endbearbeitung",
+          "description": "Wir verantworten den gesamten Ablauf: Bearbeitung, Transport, Montage und Endbearbeitung. Ein Ansprechpartner, eine Gewährleistung."
+        }
+      }
+    },
+    "stats": {
+      "title": "Polonia Granit in Zahlen",
+      "years": {
+        "value": "{years}",
+        "label": "Jahre im Steinmetzhandwerk"
+      },
+      "markets": {
+        "value": "3",
+        "label": "Märkte: Polen, Deutschland, Tschechien"
+      },
+      "warehouses": {
+        "value": "2",
+        "label": "Plattenlager: Zgorzelec und Rzeszotary"
+      }
+    },
+    "reviews": {
+      "eyebrow": "Kundenbewertungen",
+      "title": "Was unsere Kunden sagen",
+      "subtitle": "Bewertungen aus unserem Google-Profil. Wir betreuen Kunden auf beiden Seiten der Grenze.",
+      "sourceLabel": "Bewertung von Google",
+      "cta": "Alle Bewertungen ansehen"
+    },
+    "wholesale": {
+      "eyebrow": "Großhandel",
+      "title": "Steingroßhandel für Steinmetzbetriebe",
+      "body": "Wir verkaufen Platten aus Granit und aus dem Quarzkonglomerat PACIFIC im Großhandel. Das Material importieren wir direkt aus Steinbrüchen in China und Indien – von der einzelnen Platte bis zum kompletten Container.",
+      "bullets": {
+        "direct": "Direktimport aus den Steinbrüchen",
+        "stock": "Platten sofort verfügbar in zwei Lagern",
+        "delivery": "Express-Lieferung in Ihren Betrieb"
+      },
+      "cta": "Zum Großhandel",
+      "note": "Der Großhandel läuft über die Website hurtowniakamienia.eu"
+    },
+    "areas": {
+      "eyebrow": "Einsatzgebiet",
+      "title": "Wo wir arbeiten",
+      "subtitle": "Unsere Werkstatt liegt in Zgorzelec, unmittelbar an der Grenze zu Görlitz. Deshalb betreuen wir Kunden in Polen, Deutschland und Tschechien gleichermaßen zuverlässig.",
+      "cta": "Prüfen, ob wir zu Ihnen kommen"
+    },
+    "kitchenViz": {
+      "eyebrow": "Neu auf der Website",
+      "title": "Sehen Sie diesen Stein in Ihrer Küche",
+      "body": "Laden Sie ein Küchenfoto hoch, wählen Sie eine Platte aus dem Katalog — wir zeigen Arbeitsplatte und Wandverkleidung aus diesem Stein. Zwei kostenlose Versuche pro Tag.",
+      "steps": {
+        "photo": "Fotografieren Sie die Küche so, dass die Arbeitsplatte zu sehen ist.",
+        "stone": "Wählen Sie ein Quarzkonglomerat Pacific oder einen Granit.",
+        "result": "Sie erhalten eine Vorschau. Wenn sie passt, erstellen wir ein Angebot."
+      }
+    },
+    "cta": {
+      "title": "Sie suchen die passende Lösung, können sich aber nicht entscheiden?",
+      "body": "Schreiben oder rufen Sie uns an. Wir beraten Sie bei der Steinauswahl, kommen zum Aufmaß und erstellen ein Angebot – völlig unverbindlich.",
+      "primary": "Angebot anfordern",
+      "secondary": "Anrufen: {phone}"
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Schreiben Sie uns — wir erstellen ein Angebot",
+      "body": "Das Formular steht direkt hier unten, ohne weitere Seite. Wir antworten meist am selben Tag. Sie können uns auch im Betrieb in Zgorzelec besuchen."
+    }
+  },
+  "footer": {
+    "aboutTitle": "Über uns",
+    "aboutBody": "„Polonia Granit“ ist ein Familienbetrieb für Steinmetzarbeiten aus Zgorzelec. Wir fertigen und montieren Grabsteine, Fensterbänke, Treppen und Arbeitsplatten aus Granit und anderen Natursteinen.",
+    "offerTitle": "Leistungen",
+    "companyTitle": "Unternehmen",
+    "contactTitle": "Kontakt",
+    "wholesaleTitle": "Großhandel",
+    "rights": "Alle Rechte vorbehalten.",
+    "socialFacebook": "Facebook von Polonia Granit",
+    "socialInstagram": "Instagram von Polonia Granit"
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "body": "Die gesuchte Adresse existiert nicht oder hat sich beim Umbau der Website geändert.",
+    "cta": "Zurück zur Startseite"
+  },
+  "offer": {
+    "common": {
+      "featuresTitle": "Was wir genau ausführen",
+      "processTitle": "So läuft die Zusammenarbeit",
+      "processSubtitle": "Fünf Schritte vom ersten Anruf bis zur fertigen Montage. Für jeden stehen wir selbst ein — Bearbeitung und Montage geben wir nicht an Dritte ab.",
+      "steps": {
+        "talk": {
+          "title": "Gespräch und Beratung",
+          "description": "Wir klären Ihren Bedarf und sagen Ihnen, welcher Stein sich für diesen Einsatz bewährt."
+        },
+        "measure": {
+          "title": "Aufmaß beim Kunden",
+          "description": "Wir kommen zu Ihnen und messen den Einbau auf, auch ungewöhnliche Formen, Bögen und Schrägen."
+        },
+        "quote": {
+          "title": "Entwurf und Angebot",
+          "description": "Sie erhalten eine Zeichnung und ein Angebot, aufgeschlüsselt nach Material, Bearbeitung und Montage. Unverbindlich."
+        },
+        "production": {
+          "title": "Fertigung in der Werkstatt",
+          "description": "Zuschnitt, Kantenbearbeitung, Ausschnitte für Spüle und Kochfeld, Polieren — alles bei uns im Haus."
+        },
+        "install": {
+          "title": "Montage vor Ort",
+          "description": "Wir liefern, montieren und arbeiten die Anschlüsse aus. Wir räumen auf und übergeben ein fertiges Werkstück."
+        }
+      },
+      "finishesTitle": "Oberflächen",
+      "finishesSubtitle": "Derselbe Stein sieht in unterschiedlicher Oberfläche anders aus und verhält sich anders. Wir beraten Sie, was zum jeweiligen Einsatz passt.",
+      "finishes": {
+        "polished": {
+          "title": "Poliert",
+          "description": "Spiegelglanz und tiefste Farbwirkung. Die häufigste Wahl für Arbeitsplatten und Grabsteine."
+        },
+        "honed": {
+          "title": "Geschliffen",
+          "description": "Matte, gleichmäßige Oberfläche. Fingerabdrücke und Wasserspuren fallen weniger auf als auf Poliertem."
+        },
+        "brushed": {
+          "title": "Gebürstet",
+          "description": "Leicht raue Haptik, verbirgt Verschmutzungen gut. Angenehm unter der Hand."
+        },
+        "flamed": {
+          "title": "Geflammt",
+          "description": "Stark rutschhemmend. Die Oberfläche für Außentreppen, Terrassen und Zufahrten."
+        },
+        "leather": {
+          "title": "Satiniert",
+          "description": "Zarter, seidiger Glanz. Verfügbar bei den Quarzkonglomeraten PACIFIC."
+        }
+      },
+      "galleryTitle": "Unsere Referenzen",
+      "galleryCta": "Ganze Galerie ansehen",
+      "stonesCta": "Granitplatten ansehen",
+      "breadcrumbHome": "Startseite"
+    },
+    "tombstones": {
+      "metaTitle": "Grabsteine aus Granit — Görlitz, Zgorzelec, Zittau",
+      "metaDescription": "Grabsteine aus Granit: Einzel-, Doppel-, Urnen- und Kindergrabsteine. Eigene Fertigung und Montage. Wir arbeiten in Deutschland, Polen und Tschechien.",
+      "title": "Grabsteine aus Granit",
+      "lead": "Wir fertigen Grabsteine vom Entwurf bis zur Montage auf dem Friedhof. Einzel- und Doppelgrabsteine, Urnen- und Kindergrabmale, als Erdgrab, Mausoleum oder Schrägplatte — nach deutschen, polnischen und tschechischen Vorgaben.",
+      "body": "Beim Grabstein ist der Werkstoff entscheidend: Granit nimmt kein Wasser auf, platzt bei Frost nicht ab und verliert in der Sonne nicht seine Farbe. Nach zwanzig Jahren sieht er aus wie am Tag der Montage, und zur Pflege genügt Wasser. Wir beraten bei Gesteinsart und Form, erstellen eine Zeichnung mit der Schrift und fertigen nach Ihrer Freigabe alles selbst — samt Fundament, Einfassung und Zubehör.",
+      "features": {
+        "one": "Einzel- und Doppelgrabsteine — Erdgräber, Mausoleen und Schrägplatten",
+        "two": "Urnen- und Kindergrabmale, auch in Sondermaßen",
+        "three": "Deutsche und tschechische Ausführung — andere Proportionen, Einfassungen und Montageart",
+        "four": "Schrift: Gravur, Edelstahlbuchstaben, Blattgold, Porzellanbilder",
+        "five": "Restaurierung bestehender Grabmale und Ergänzung weiterer Tafeln"
+      }
+    },
+    "countertops": {
+      "metaTitle": "Arbeitsplatten aus Naturstein für Küche und Bad — Görlitz",
+      "metaDescription": "Arbeitsplatten aus Granit, Marmor, Quarzit und Quarzkonglomerat PACIFIC. Aufmaß beim Kunden, Fertigung in eigener Werkstatt, Montage.",
+      "title": "Arbeitsplatten für Küche und Bad",
+      "lead": "Arbeitsplatten aus Granit, Marmor, Quarzit und Quarzkonglomerat. Widerstandsfähig gegen Hitze, Kratzer und Verfärbungen — in einer Küche, in der wirklich gekocht wird, ist das keine Zugabe, sondern Voraussetzung.",
+      "body": "Eine Arbeitsplatte wird täglich über viele Jahre benutzt, deshalb zählt mehr als die Farbe. Granit und Quarzit sind hart und praktisch unempfindlich gegen heiße Töpfe. Das Quarzkonglomerat PACIFIC bietet ein gleichmäßiges Muster und volle Fleckenbeständigkeit, auch bei hellen Marmordekoren. Marmor wählen wir dort, wo die Optik wichtiger ist als völlige Pflegefreiheit — und sagen das vor der Bestellung offen.",
+      "features": {
+        "one": "Küchenarbeitsplatten, Kochinseln, Bartheken und Fensterbänke im selben Material",
+        "two": "Waschtischplatten für Aufsatz- und Unterbaubecken",
+        "three": "Ausschnitte für Spüle, Induktionsfeld, Armatur und Steckdosen",
+        "four": "Kantenbearbeitung: gerade, gefast, gerundet, aufgedoppelt",
+        "five": "Nischenrückwände und durchgehende Verkleidungen zwischen den Schränken"
+      }
+    },
+    "windowsills": {
+      "metaTitle": "Fensterbänke aus Granit innen und außen — Görlitz",
+      "metaDescription": "Fensterbänke aus Granit, beständig gegen sauren Regen und UV-Strahlung. Oberfläche poliert, geschliffen, gebürstet oder geflammt.",
+      "title": "Fensterbänke aus Granit",
+      "lead": "Innen- und Außenfensterbänke aus Naturstein. Beständig gegen sauren Regen, Frost und UV-Strahlung — sie vergilben und verfärben sich nicht wie Fensterbänke aus Marmorkonglomerat.",
+      "body": "Die Außenfensterbank arbeitet unter den härtesten Bedingungen am ganzen Gebäude: Wasser läuft darüber, im Winter friert sie, im Sommer heizt die Sonne sie auf. Granit steckt das unverändert weg, deshalb raten wir am Außenfenster von günstigeren Werkstoffen ab. Innen verbindet eine Fensterbank aus demselben Stein wie Arbeitsplatte oder Treppe den Raum zu einem Ganzen. Wir fertigen auch Wassernasen, Unterschnitte und Ausführungen für Rollläden.",
+      "features": {
+        "one": "Innenfensterbänke in jeder Länge, auf Wunsch fugenlos zusammengesetzt",
+        "two": "Außenfensterbänke mit Wassernase, die Wasser von der Fassade wegführt",
+        "three": "Ausschnitte und Unterschnitte für Laibungen, Rollläden und Heizkörper",
+        "four": "Passende Oberfläche für den Einbauort: poliert, geschliffen oder geflammt",
+        "five": "Türschwellen und Sohlbänke aus demselben Material"
+      }
+    },
+    "stairs": {
+      "metaTitle": "Treppen aus Granit innen und außen — Görlitz",
+      "metaDescription": "Treppen aus Granit mit Rutschhemmung. Trittstufen, Setzstufen, Sockel und Podeste nach Maß.",
+      "title": "Treppen aus Granit",
+      "lead": "Innen- und Außentreppen nach Ihrem Entwurf und Aufmaß, mit rutschhemmender Oberfläche dort, wo sie gebraucht wird.",
+      "body": "Eine Steintreppe baut man einmal und sie bleibt Jahrzehnte, deshalb ist das Aufmaß hier wichtiger als überall sonst — im Rohbau hat jede Stufe eine andere Höhe. Wir kommen vorbei, messen jeden Lauf einzeln und schneiden erst danach das Material. Draußen sind geflammte oder gebürstete Oberflächen und Rillen zur Rutschhemmung Standard, innen meist poliert oder geschliffen. Wir fertigen Trittstufen, Setzstufen, Sockel, Podeste und Wangen.",
+      "features": {
+        "one": "Trittstufen und Setzstufen nach Maß, auch trapezförmig und gewendelt",
+        "two": "Rillen und rutschhemmende Streifen auf Außenstufen",
+        "three": "Sockel, Fußleisten und Wangen im gleichen Stein",
+        "four": "Podeste und Absätze aus großformatigen Platten",
+        "five": "Außentreppen mit geflammter oder gebürsteter Oberfläche"
+      }
+    },
+    "fireplaces": {
+      "metaTitle": "Kaminverkleidungen aus Granit und Marmor — Görlitz",
+      "metaDescription": "Kaminverkleidungen aus Naturstein für offene Kamine, Kamineinsätze und freistehende Öfen. Entwurf und Montage.",
+      "title": "Kaminverkleidungen",
+      "lead": "Verkleidungen aus Granit und Marmor für offene Kamine, Kamineinsätze und freistehende Öfen — von schlichten, modernen Körpern bis zu klassischen Formen.",
+      "body": "Stein am Kamin arbeitet bei hohen Temperaturen und muss wiederholtes Aufheizen und Abkühlen aushalten. Granit und ausgewählte Marmore schaffen das ohne Risse und speichern dabei Wärme, die sie noch lange nach dem Erlöschen des Feuers abgeben. Die Verkleidung planen wir für den konkreten Einsatz — mit den vom Hersteller geforderten Abständen — und montieren sie samt Ablage, Sockel und Feuerraumeinfassung.",
+      "features": {
+        "one": "Verkleidungen für Kamineinsätze aller Hersteller",
+        "two": "Bodenplatten und Sockel für freistehende Öfen",
+        "three": "Kaminablagen und Gesimse aus einem Stück Stein",
+        "four": "Feuerraumeinfassungen bei offenen Kaminen",
+        "five": "Wandverkleidungen rund um den Kamin, passend zur Verkleidung"
+      }
+    }
+  },
+  "stones": {
+    "metaTitle": "Steinkatalog — Granitsorten und Quarzkonglomerate PACIFIC",
+    "metaDescription": "Mehrere Dutzend Granitsorten sowie die Quarzkonglomerate PACIFIC. Nach Farbe und Materialart filtern und Verfügbarkeit anfragen.",
+    "title": "Steinkatalog",
+    "lead": "Mehrere Dutzend Granit- und Quarzkonglomeratsorten aus unserem festen Sortiment. Das Material importieren wir direkt aus den Steinbrüchen, daher ist der Großteil sofort ab Lager verfügbar.",
+    "body": "Die Fotos zeigen Muster und Farbton, doch Naturstein ist über die ganze Platte nie identisch — zwei Platten derselben Sorte können sich in Äderung und Farbsättigung unterscheiden. Bei größeren Aufträgen laden wir Sie deshalb ins Lager ein, um die konkrete Platte auszusuchen. Die Quarzkonglomerate PACIFIC sind darin wiederholgenau: Das Muster ist auf jeder Platte gleich.",
+    "filterMaterial": "Materialart",
+    "filterColor": "Farbe",
+    "all": "Alle",
+    "resultsAll": "Alle Sorten",
+    "empty": "Keine Steine entsprechen den gewählten Kriterien.",
+    "reset": "Filter zurücksetzen",
+    "materials": {
+      "granit": "Granit",
+      "konglomerat": "Quarzkonglomerat"
+    },
+    "colors": {
+      "czarny": "Schwarz",
+      "grafitowy": "Anthrazit",
+      "szary": "Grau",
+      "jasny": "Hell",
+      "bezowy": "Beige",
+      "brazowy": "Braun",
+      "czerwony": "Rot",
+      "zielony": "Grün",
+      "niebieski": "Blau",
+      "wielokolorowy": "Mehrfarbig"
+    },
+    "finishes": {
+      "polerowany": "Poliert",
+      "satynowy": "Satiniert"
+    },
+    "sampleNote": "Farben können auf dem Bildschirm vom Original abweichen. Vor der Bestellung lohnt es sich, ein Muster vor Ort anzusehen.",
+    "ctaTitle": "Unklar, welcher Stein der richtige ist?",
+    "ctaBody": "Schreiben Sie uns, wofür er gedacht ist — Grabstein, Arbeitsplatte, Fensterbänke — und wir sagen Ihnen, welche Sorten sich am besten bewähren und was aktuell am Lager liegt."
+  },
+  "granites": {
+    "metaTitle": "Granitplatten — Sortenkatalog",
+    "metaDescription": "Mehrere Dutzend Granitsorten für Grabsteine, Arbeitsplatten, Fensterbänke und Treppen. Nach Farbe filtern und Verfügbarkeit im Lager in Zgorzelec anfragen.",
+    "title": "Granitplatten",
+    "lead": "Granitsorten aus unserem festen Sortiment. Das Material importieren wir direkt aus den Steinbrüchen, daher ist der Großteil sofort ab Lager verfügbar.",
+    "body": "Die Fotos zeigen Muster und Farbton, doch Naturstein ist über die ganze Platte nie identisch — zwei Platten derselben Sorte können sich in Äderung und Farbsättigung unterscheiden. Bei größeren Aufträgen laden wir Sie deshalb ins Lager ein, um die konkrete Platte auszusuchen.",
+    "siblingCta": "Quarzkonglomerate Pacific ansehen",
+    "ctaTitle": "Unklar, welcher Granit der richtige ist?",
+    "ctaBody": "Schreiben Sie uns, wofür er gedacht ist — Grabstein, Arbeitsplatte, Fensterbänke — und wir sagen Ihnen, welche Sorten sich am besten bewähren und was aktuell am Lager liegt."
+  },
+  "conglomerates": {
+    "metaTitle": "Quarzkonglomerate Pacific — Dekorkatalog",
+    "metaDescription": "Quarzkonglomerate Pacific für Arbeitsplatten, Inseln und Bäder. Das Muster wiederholt sich über die ganze Platte. Nach Farbe filtern und Verfügbarkeit anfragen.",
+    "title": "Quarzkonglomerate Pacific",
+    "lead": "Quarzkonglomerat Pacific ist wiederholgenau: Das Muster sieht auf jeder Platte gleich aus. Es eignet sich für Küchenarbeitsplatten, Inseln und Badmöbel.",
+    "body": "Im Gegensatz zu Granit hat Konglomerat keine natürlichen Adern, die von Platte zu Platte wechseln. Die Gestaltung auf dem Foto entspricht dem, was Sie bei sich erhalten. Die Dekore dieser Kollektion zeigen wir auch in fertigen Interieurs — unter Visualisierungen.",
+    "siblingCta": "Granitplatten ansehen",
+    "ctaTitle": "Sie suchen ein Dekor für die Arbeitsplatte?",
+    "ctaBody": "Schreiben Sie uns Maße und Verwendung — wir sagen Ihnen, welche Pacific-Dekore sich in Küche oder Bad bewähren und was aktuell am Lager liegt."
+  },
+  "gallery": {
+    "metaTitle": "Referenzen — Galerie unserer Grabsteine aus Granit",
+    "metaDescription": "Über vierhundert Fotos von uns gefertigter Grabsteine, geordnet nach Art: moderne, Mausoleen, Erdgräber, Doppel-, Urnen- und Kindergrabmale.",
+    "title": "Referenzen",
+    "lead": "Fotos von Grabsteinen, die wir gefertigt und montiert haben. Wir haben sie nach Arten geordnet — so finden Sie leichter die Form, die zur konkreten Grabstelle passt.",
+    "allTypes": "Alle Arten",
+    "typesTitle": "Grabsteinarten",
+    "countLabel": "{count, plural, one {# Foto} other {# Fotos}}",
+    "photoAlt": "{type} — Arbeit von Polonia Granit Nr. {index}",
+    "backToAll": "Zurück zu allen Arten",
+    "typeMetaTitle": "{type} — Referenzen von Polonia Granit",
+    "note": "Jeden Grabstein fertigen wir auf das Maß der konkreten Grabstelle, betrachten Sie die Fotos daher als Anregung und nicht als abgeschlossenen Musterkatalog. Form und Schrift legen wir individuell fest.",
+    "types": {
+      "nowoczesne": {
+        "name": "Moderne Grabsteine",
+        "description": "Klare Körper, zurückhaltende Form, große Flächen aus poliertem Stein."
+      },
+      "grobowce": {
+        "name": "Mausoleen",
+        "description": "Grabmale mit Grabkammer, unter der Platte gemauert und in Stein ausgeführt."
+      },
+      "ziemne": {
+        "name": "Erdgräber",
+        "description": "Klassische Form mit Einfassung und Fläche zum Bepflanzen."
+      },
+      "podwojne": {
+        "name": "Doppelgrabsteine",
+        "description": "Grabmale für zwei Personen — als Erdgrab und als Mausoleum."
+      },
+      "ukosne": {
+        "name": "Schräge Grabsteine",
+        "description": "Geneigte Platte, überwiegend auf deutschen Friedhöfen anzutreffen."
+      },
+      "urnowe": {
+        "name": "Urnengräber",
+        "description": "Kleinere Formen für die Urnenbeisetzung."
+      },
+      "dzieciece": {
+        "name": "Kindergrabsteine",
+        "description": "Zartere Formen und kleinere Maße, oft mit individueller Gestaltung."
+      },
+      "niemieckie": {
+        "name": "Grabsteine nach deutschem Standard",
+        "description": "Proportionen, Einfassungen und Montageart nach den Vorgaben deutscher Friedhöfe."
+      },
+      "czeskie": {
+        "name": "Grabsteine nach tschechischem Standard",
+        "description": "Für tschechische Friedhöfe typische Formen mit charakteristischer Einfassung."
+      },
+      "blaty": {
+        "name": "Küchenarbeitsplatten",
+        "description": "Arbeitsplatten aus Granit und Quarzkonglomerat — unsere Ausführungen in Kundenküchen."
+      },
+      "schody": {
+        "name": "Granittreppen",
+        "description": "Innen- und Außentreppen aus Stein, passend zu Gebäude und Gelände."
+      },
+      "pozostale": {
+        "name": "Weitere Arbeiten",
+        "description": "Arbeiten, die in keine der übrigen Kategorien fallen."
+      }
+    },
+    "lightbox": {
+      "close": "Schließen",
+      "prev": "Vorheriges Foto",
+      "next": "Nächstes Foto",
+      "counter": "{current} von {total}",
+      "openHint": "Foto vergrößern"
+    }
+  },
+  "about": {
+    "metaTitle": "Über uns — Steinmetzbetrieb aus Zgorzelec",
+    "metaDescription": "Polonia Granit ist ein Familienbetrieb aus Zgorzelec mit über 20 Jahren Erfahrung. Eigene Fertigung, Montage und komplette Endausführung.",
+    "title": "Über uns",
+    "lead": "Ein Familienbetrieb aus Zgorzelec, tätig auf dem polnischen, deutschen und tschechischen Markt. Wir fertigen und montieren Grabsteine, Fensterbänke, Treppen und Arbeitsplatten aus Granit.",
+    "body1": "Wir bieten das komplette Spektrum an Steinmetzarbeiten: eigene Fertigung, Montage und Endausführung. Unsere Position am Markt haben wir uns in über 20 Jahren erarbeitet — diese Erfahrung sieht man an der Qualität der Ausführung.",
+    "body2": "Stein ist für uns ein Material mit sehr breiter Anwendung, und wir suchen weiter nach neuen Lösungen für seinen Einsatz. Wir verfolgen die Entwicklungen der Branche und erweitern unser Sortiment entsprechend den Wünschen unserer Kunden.",
+    "body3": "Dank der langjährigen Erfahrung helfen wir Ihnen, die richtige Entscheidung zu treffen. Wir beraten bei der Wahl von Stein, Form und Oberfläche — damit das Ergebnis keine Nachbesserung braucht.",
+    "offerTitle": "In unserem Angebot finden Sie",
+    "offerItems": {
+      "tombstones": "Grabsteine aus Granit",
+      "windowsills": "Innen- und Außenfensterbänke",
+      "stairs": "Treppen",
+      "countertops": "Küchen- und Badarbeitsplatten",
+      "fireplaces": "Kaminverkleidungen",
+      "more": "sowie Steinbearbeitung nach Maß"
+    },
+    "galleryTitle": "Werkstatt und Lager",
+    "gallerySubtitle": "Bearbeitung und Montage führen wir selbst aus — ohne Subunternehmer."
+  },
+  "visualisations": {
+    "metaTitle": "Visualisierungen — Quarzkonglomerate PACIFIC im Einsatz",
+    "metaDescription": "Anwendungsfotos der Quarzkonglomerate PACIFIC: Küchenarbeitsplatten, Kochinseln und Bäder. So wirkt jedes Dekor im fertigen Raum.",
+    "title": "Visualisierungen",
+    "lead": "Quarzkonglomerate PACIFIC in fertigen Räumen. Ein Muster zeigt das Dekor aus der Nähe, aber erst die ganze Fläche zeigt, wie der Stein in Küche oder Bad wirkt.",
+    "body": "Alle Dekore aus dieser Galerie führen wir im Katalog der Quarzkonglomerate Pacific. Quarzkonglomerat ist wiederholgenau — die Platte sieht auf der ganzen Fläche gleich aus, das Foto entspricht also dem, was Sie bei sich erhalten.",
+    "note": "Die Anwendungsfotos stammen vom Plattenhersteller PACIFIC.",
+    "stonesCta": "Katalog der Quarzkonglomerate Pacific ansehen"
+  },
+  "kitchenViz": {
+    "metaTitle": "Stein in Ihrer Küche — Vorschau der Arbeitsplatte anhand eines Fotos",
+    "metaDescription": "Laden Sie ein Foto Ihrer Küche hoch und sehen Sie, wie Arbeitsplatte und Wand aus Granit oder Quarzkonglomerat Pacific wirken würden. Zwei kostenlose Visualisierungen pro Tag.",
+    "title": "Stein in Ihrer Küche",
+    "lead": "Ein Küchenfoto plus die gewählte Platte. Wir erstellen eine Vorschau von Arbeitsplatte und Wandverkleidung — noch vor dem Aufmaß.",
+    "body": "Das ist eine Vorschau, kein Foto der fertigen Ausführung. Den Stein legen wir auf die Arbeitsplatte und auf die Wand zwischen Platte und Oberschränken, wie bei einer echten Montage. Quarzkonglomerate Pacific haben ein wiederholgenaues Muster, die Visualisierung kommt der Realität deshalb nahe. Bei Granit weichen die Adern auf der konkreten Platte immer etwas ab — deshalb laden wir ins Lager ein.",
+    "steps": {
+      "photo": "Laden Sie ein Küchenfoto mit sichtbarer Arbeitsplatte hoch.",
+      "stone": "Wählen Sie einen Stein aus dem Katalog.",
+      "result": "Sie erhalten eine Vorschau. Danach ein unverbindliches Angebot."
+    },
+    "uploadLabel": "Küchenfoto",
+    "uploadHint": "Klicken und Foto wählen oder mit dem Telefon aufnehmen. JPEG, PNG oder WebP, bis 8 MB.",
+    "uploadChange": "Miniatur klicken, um ein anderes Foto zu nehmen.",
+    "stonesLabel": "Stein für Platte und Wand",
+    "materialPacific": "Konglomerate Pacific",
+    "materialGranite": "Granitplatten",
+    "graniteNote": "Granit ist Naturstein — das Muster in der Vorschau ist eine Annäherung, keine Kopie einer bestimmten Platte.",
+    "generate": "Vorschau erstellen",
+    "generating": "Vorschau wird vorbereitet…",
+    "generatingHint": "Das dauert meist 15–30 Sekunden. Bitte die Seite nicht schließen.",
+    "remaining": "Heute noch {count} von {limit} Visualisierungen.",
+    "unlimited": "Testmodus — kein Tageslimit.",
+    "consent": "Das Küchenfoto wird nur an das Grafikmodell gesendet, um die Vorschau zu erstellen. Wir speichern es nicht dauerhaft. Details in der <privacy>Datenschutzerklärung</privacy>.",
+    "disclaimer": "Die Visualisierung ist eine Gestaltungsvorschau. Die Farbe am Bildschirm hängt vom Monitor und vom Licht auf dem Foto ab. Das endgültige Aussehen legen wir an der Platte im Lager fest.",
+    "originalAlt": "Ihr Küchenfoto",
+    "originalCaption": "Ihr Foto",
+    "zoomHint": "Klicken zum Vergrößern",
+    "closePreview": "Vergrößerung schließen",
+    "resultAlt": "Vorschau der Küche mit Arbeitsplatte {stone}",
+    "resultCaption": "Vorschau mit Stein {stone}",
+    "download": "Vorschau herunterladen",
+    "quoteCta": "Angebot für diese Platte anfordern",
+    "quoteHint": "Der Anfrage können Sie dieses Bild anhängen.",
+    "selectedStone": "Gewählter Stein: {stone}",
+    "ctaTitle": "Passt die Vorschau?",
+    "ctaBody": "Schreiben oder rufen Sie uns an. Wir kommen zum Aufmaß und erstellen ein unverbindliches Angebot.",
+    "errors": {
+      "photo": "Bitte ein Küchenfoto hinzufügen.",
+      "stone": "Bitte einen Stein aus dem Katalog wählen.",
+      "consent": "Wir brauchen Ihre Einwilligung, um die Vorschau zu erstellen.",
+      "type": "Zulässig sind JPEG, PNG und WebP.",
+      "tooLarge": "Das Foto darf höchstens 8 MB groß sein.",
+      "rate": "Für heute sind beide Vorschauen aufgebraucht. Morgen können Sie es erneut versuchen — oder gleich ein Angebot anfordern.",
+      "unconfigured": "Die Visualisierung wartet auf den OpenAI-Schlüssel auf dem Server. Das Angebotsformular funktioniert unabhängig davon.",
+      "generic": "Die Vorschau konnte nicht erstellt werden. Bitte ein anderes Foto versuchen oder uns schreiben."
+    }
+  },
+  "faq": {
+    "metaTitle": "Fragen und Antworten — Grabsteine, Arbeitsplatten und Fensterbänke",
+    "metaDescription": "Antworten auf die häufigsten Fragen: Aufmaß, Montage auf deutschen und tschechischen Friedhöfen, Unterschied zwischen Granit und Quarzkonglomerat, Pflege des Steins.",
+    "title": "Fragen und Antworten",
+    "lead": "Hier sind die Fragen, die wir im ersten Gespräch am häufigsten hören. Fehlt etwas — rufen Sie einfach an.",
+    "items": {
+      "measure": {
+        "q": "Kommen Sie zum Aufmaß?",
+        "a": "Ja, das Aufmaß nehmen wir vor Ort und es gehört bei jedem Auftrag zum Standard. Wir messen auch untypische Formen, Bögen und Schrägen — so passt die Arbeitsplatte oder Fensterbank beim ersten Mal, ohne Nacharbeit an der Baustelle."
+      },
+      "abroad": {
+        "q": "Montieren Sie Grabsteine auf deutschen und tschechischen Friedhöfen?",
+        "a": "Ja. Wir betreuen Kunden in Polen, Deutschland und Tschechien und fertigen Grabmale nach den Vorgaben der Friedhöfe auf beiden Seiten der Grenze — mit den entsprechenden Proportionen, Einfassungen und der passenden Montageart."
+      },
+      "granite": {
+        "q": "Was ist der Unterschied zwischen Granit und Quarzkonglomerat?",
+        "a": "Granit ist Naturstein — jede Platte hat ihre eigene Äderung, zwei Platten derselben Sorte sind also nie identisch. Quarzkonglomerat ist ein gefertigtes Material mit gleichmäßigem Dekor über die ganze Fläche. Für Grabmale und Außenbereiche empfehlen wir Granit, für Küchenarbeitsplatten bewähren sich beide Materialien."
+      },
+      "finishes": {
+        "q": "Welche Oberflächen sind möglich?",
+        "a": "Poliert, geschliffen, gebürstet und geflammt, bei den Quarzkonglomeraten PACIFIC zusätzlich satiniert. Die Wahl hat praktische Folgen: Politur gibt die tiefste Farbe, Flammen eine rutschhemmende Oberfläche für Außentreppen und Terrassen."
+      },
+      "warehouse": {
+        "q": "Kann ich die Platten vor der Bestellung ansehen?",
+        "a": "Ja, kommen Sie gerne ins Lager. Bei Naturstein ist das die sinnvollste Reihenfolge — am Bildschirm wirken Farben anders, und bei größeren Aufträgen lohnt es sich, die konkrete Platte auszusuchen."
+      },
+      "quote": {
+        "q": "Was kostet ein Angebot?",
+        "a": "Das Angebot ist kostenlos und unverbindlich. Wir gliedern es nach Material, Bearbeitung und Montage, damit erkennbar ist, wofür Sie zahlen."
+      },
+      "care": {
+        "q": "Wie pflege ich den Stein nach der Montage?",
+        "a": "Granit reinigt man mit Wasser und einem milden Reinigungsmittel. Meiden Sie säure- und essighaltige Mittel sowie Scheuerpulver — sie mattieren die Politur. Für Küchenarbeitsplatten empfehlen wir Untersetzer für heiße Töpfe, auch wenn der Stein temperaturbeständig ist."
+      },
+      "wholesale": {
+        "q": "Verkaufen Sie Stein auch im Großhandel?",
+        "a": "Ja, den Plattenverkauf übernimmt unser Großhandel hurtowniakamienia.eu. Das Material importieren wir direkt aus den Steinbrüchen, Sie zahlen bei uns also keinen Zwischenhändler."
+      }
+    },
+    "ctaTitle": "Ihre Frage steht nicht dabei?",
+    "ctaBody": "Rufen Sie an oder schreiben Sie uns — wir antworten konkret auf Ihren Fall."
+  },
+  "contact": {
+    "metaTitle": "Kontakt — Polonia Granit, Zgorzelec",
+    "metaDescription": "Rufen Sie an, schreiben Sie oder kommen Sie vorbei: ul. Łużycka 89, 59-900 Zgorzelec. Montag bis Freitag 9:00–17:00, Samstag 9:00–13:00.",
+    "title": "Kontakt",
+    "lead": "Am schnellsten erreichen Sie uns telefonisch. Sie können auch eine E-Mail schreiben oder in den Betrieb kommen — wir zeigen Ihnen die Platten gerne vor Ort.",
+    "callTitle": "Anrufen",
+    "callBody": "Nummern des Büros. Wenn niemand abnimmt, stehen wir an den Maschinen — bitte versuchen Sie es kurz später erneut.",
+    "writeTitle": "Schreiben",
+    "writeBody": "An die E-Mail können Sie direkt Maße, ein Foto der Stelle oder eine Zeichnung anhängen. Wir antworten meist am selben Tag.",
+    "visitTitle": "Besuchen Sie uns",
+    "visitBody": "Firmensitz und Plattenlager.",
+    "hoursTitle": "Öffnungszeiten",
+    "mapCta": "Route planen",
+    "mapTitle": "So finden Sie uns",
+    "mapLoad": "Karte anzeigen",
+    "mapLoadHint": "Die Karte wird erst nach dem Klick von Google geladen — vorher setzt diese Seite keine Google-Cookies.",
+    "wholesaleTitle": "Plattenverkauf im Großhandel",
+    "wholesaleBody": "Für den Großhandel mit Stein ist ein eigenes Portal zuständig — hurtowniakamienia.eu.",
+    "legalTitle": "Firmendaten",
+    "formTitle": "Anfrageformular",
+    "formLead": "Füllen Sie das Formular aus — wir antworten meist am selben Tag. Der Nachricht können Sie ein Foto der Stelle oder eine Zeichnung anhängen.",
+    "form": {
+      "name": "Vor- und Nachname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "topic": "Thema",
+      "topicPlaceholder": "Thema wählen",
+      "message": "Nachricht",
+      "files": "Fotos oder Zeichnungen (optional)",
+      "filesHint": "Bis zu 3 Dateien, maximal 4 MB je Datei. JPEG, PNG, WebP, HEIC oder PDF.",
+      "consent": "Ich willige in die Verarbeitung meiner Daten zur Beantwortung der Anfrage ein. Einzelheiten in der <privacy>Datenschutzerklärung</privacy>.",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet…",
+      "successTitle": "Vielen Dank für Ihre Nachricht",
+      "successBody": "Wir haben die Anfrage erhalten und melden uns so schnell wie möglich. In dringenden Fällen rufen Sie uns bitte an.",
+      "topics": {
+        "tombstones": "Grabsteine",
+        "countertops": "Arbeitsplatten",
+        "windowsills": "Fensterbänke",
+        "stairs": "Treppen",
+        "fireplaces": "Kamine",
+        "granites": "Granitplatten",
+        "conglomerates": "Quarzkonglomerate Pacific",
+        "other": "Sonstiges"
+      },
+      "errors": {
+        "name": "Bitte Vor- und Nachname angeben (mind. 2 Zeichen).",
+        "email": "Bitte eine gültige E-Mail-Adresse angeben.",
+        "phone": "Bitte eine Telefonnummer angeben.",
+        "message": "Bitte ein paar Sätze schreiben (mind. 10 Zeichen).",
+        "consent": "Wir benötigen die Einwilligung, um auf die Anfrage zu antworten.",
+        "rate": "Bitte warten Sie einen Moment vor dem nächsten Versand.",
+        "generic": "Die Nachricht konnte nicht gesendet werden. Bitte rufen Sie an oder schreiben Sie eine E-Mail.",
+        "files": {
+          "tooMany": "Es sind höchstens 3 Dateien möglich.",
+          "tooLarge": "Jede Datei darf höchstens 4 MB groß sein.",
+          "type": "Zulässig sind JPEG, PNG, WebP, HEIC und PDF."
+        }
+      }
+    }
+  },
+  "privacy": {
+    "metaTitle": "Datenschutz und Cookies",
+    "metaDescription": "Grundsätze der Verarbeitung personenbezogener Daten und der Verwendung von Cookies auf der Website von Polonia Granit.",
+    "title": "Datenschutz und Cookies",
+    "lead": "Die Angabe personenbezogener Daten ist immer freiwillig. Sie haben jederzeit das Recht auf Auskunft, Berichtigung oder Löschung Ihrer Daten.",
+    "sections": {
+      "controller": {
+        "title": "Verantwortlicher",
+        "body": "Verantwortlicher für die über diese Website erhobenen personenbezogenen Daten ist {legalName}, {address}, Steuernummer (NIP) {taxId}. Kontakt: {email}."
+      },
+      "data": {
+        "title": "Welche Daten wir verarbeiten",
+        "body": "Wir verarbeiten nur die Daten, die Sie uns selbst übermitteln: Name, E-Mail-Adresse, Telefonnummer, Inhalt der Anfrage und — falls beigefügt — Fotos und Zeichnungen. Bei der Küchenvisualisierung verarbeiten wir ausschließlich das hochgeladene Küchenfoto und die Steinauswahl, solange die Vorschau erzeugt wird."
+      },
+      "purpose": {
+        "title": "Zweck und Rechtsgrundlage",
+        "body": "Die Verarbeitung erfolgt zur Beantwortung der Anfrage und zur Durchführung des Auftrags (Art. 6 Abs. 1 lit. b DSGVO) sowie zur geschäftlichen Korrespondenz auf Grundlage unseres berechtigten Interesses (Art. 6 Abs. 1 lit. f DSGVO)."
+      },
+      "retention": {
+        "title": "Speicherdauer",
+        "body": "Anfragen bewahren wir so lange auf, wie es zur Bearbeitung des Vorgangs nötig ist. Kommt ein Auftrag zustande, gelten die steuer- und handelsrechtlichen Aufbewahrungsfristen."
+      },
+      "recipients": {
+        "title": "Empfänger der Daten",
+        "body": "Die Daten aus dem Formular erhalten Dienstleister, die unsere Website und unseren E-Mail-Versand betreiben: der Hosting-Anbieter und der Anbieter des Versanddienstes. Das Küchenfoto aus der Visualisierung wird ausschließlich zur Erzeugung der Vorschau an OpenAI übermittelt und von uns nicht gespeichert. Wir verkaufen keine Daten und geben sie nicht zu Werbezwecken weiter. Eine Ausnahme sind Fälle, in denen geltendes Recht die Herausgabe an staatliche Stellen vorschreibt."
+      },
+      "visualization": {
+        "title": "Küchenvisualisierung",
+        "body": "Das Werkzeug „Stein in der Küche“ sendet das Küchenfoto und die Steinprobe an das Grafikmodell von OpenAI, um eine Vorschau der Arbeitsplatte zu erstellen. Die Einwilligung ist freiwillig. Das Foto speichern wir nach der Erzeugung der Vorschau nicht auf unseren Servern. Das Limit von zwei Visualisierungen pro Tag dient nur dem Schutz vor Missbrauch."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "Diese Website verwendet keine Werbe- oder Analyse-Cookies. Gespeichert wird ein technisches Cookie mit der gewählten Sprachversion und — bei Nutzung der Küchenvisualisierung — ein technischer Zähler der Tagesversuche. Auf der Startseite und der Kontaktseite ist eine Google-Karte eingebettet, die Google-Cookies setzen kann. Cookies können Sie jederzeit in den Einstellungen Ihres Browsers löschen oder blockieren."
+      },
+      "rights": {
+        "title": "Ihre Rechte",
+        "body": "Sie haben das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung, ein Widerspruchsrecht, das Recht auf Datenübertragbarkeit sowie das Recht, eine Einwilligung jederzeit zu widerrufen. Zudem steht Ihnen das Recht auf Beschwerde bei der zuständigen Datenschutzaufsichtsbehörde zu."
+      },
+      "changes": {
+        "title": "Änderungen dieser Erklärung",
+        "body": "Wir behalten uns vor, diese Erklärung zu ändern, wenn geltendes Recht es erfordert oder sich die technischen Rahmenbedingungen der Website ändern. Die aktuelle Fassung finden Sie stets unter dieser Adresse."
+      },
+      "contact": {
+        "title": "Kontakt in Datenschutzfragen",
+        "body": "In Fragen zum Datenschutz schreiben Sie an {email} oder wenden Sie sich an die oben genannte Anschrift."
+      }
+    }
+  }
+}

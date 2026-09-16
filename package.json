@@ -1,0 +1,38 @@
+{
+  "name": "polonia-granit",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Strona internetowa Polonia Granit - kamieniarstwo Zgorzelec (PL/DE/CS)",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "typecheck": "tsc --noEmit",
+    "images:scrape": "node scripts/scrape-images.mts",
+    "images:optimize": "node scripts/optimize-images.mts",
+    "images:import-client": "node scripts/import-client-photos.mts",
+    "logo:prepare": "node scripts/prepare-logo.mts",
+    "verify": "npm run typecheck && npm run lint"
+  },
+  "dependencies": {
+    "next": "^16.3.0",
+    "next-intl": "^4.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "resend": "^4.0.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.6",
+    "@types/node": "^22.13.1",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3",
+    "eslint": "^9.20.1",
+    "eslint-config-next": "^16.3.0",
+    "sharp": "^0.35.4",
+    "tailwindcss": "^4.0.6",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}

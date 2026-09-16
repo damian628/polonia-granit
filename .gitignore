@@ -1,0 +1,19 @@
+node_modules
+.next
+out
+build
+.DS_Store
+*.pem
+.env
+.env*.local
+.vercel
+next-env.d.ts
+tsconfig.tsbuildinfo
+
+# Surowe zdjęcia zassane ze starej strony - trzymamy tylko zoptymalizowane w public/
+scripts/.cache
+public/_raw
+
+# Lokalne skrypty i cache, nie część strony
+.scratch/
+.tmp/

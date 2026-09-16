@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "locale": "polski",
+    "siteName": "Polonia Granit",
+    "tagline": "Centrum usług kamieniarskich w Zgorzelcu"
+  },
+  "nav": {
+    "about": "O firmie",
+    "offer": "Oferta",
+    "tombstones": "Nagrobki",
+    "countertops": "Blaty",
+    "windowsills": "Parapety",
+    "stairs": "Schody",
+    "fireplaces": "Kominki",
+    "materials": "Kamienie",
+    "stones": "Katalog kamieni",
+    "granites": "Płyty granitowe",
+    "conglomerates": "Konglomeraty kwarcowe Pacific",
+    "kitchenViz": "Kamień w kuchni",
+    "visualisations": "Wizualizacje",
+    "gallery": "Realizacje",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "wholesale": "Hurtownia",
+    "privacy": "Polityka prywatności",
+    "openMenu": "Otwórz menu",
+    "closeMenu": "Zamknij menu",
+    "skipToContent": "Przejdź do treści",
+    "changeLanguage": "Zmień język",
+    "externalHint": "otwiera się w nowej karcie"
+  },
+  "common": {
+    "call": "Zadzwoń",
+    "callUs": "Zadzwoń do nas",
+    "writeToUs": "Napisz do nas",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "address": "Adres",
+    "openingHours": "Godziny otwarcia",
+    "weekdays": "Poniedziałek – Piątek",
+    "saturday": "Sobota",
+    "sunday": "Niedziela",
+    "closed": "nieczynne",
+    "askForQuote": "Zapytaj o wycenę",
+    "quoteShort": "Wycena",
+    "freeQuote": "Bezpłatna wycena",
+    "seeOffer": "Zobacz ofertę",
+    "seeGallery": "Zobacz realizacje",
+    "seeMore": "Dowiedz się więcej",
+    "backToTop": "Do góry",
+    "whatsappCta": "Napisz na WhatsApp",
+    "years": "lat"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Kamieniarstwo Zgorzelec · firma rodzinna",
+      "title": "Granit, który zostaje na lata",
+      "subtitle": "Projektujemy, wykonujemy i montujemy nagrobki, blaty, parapety i schody z kamienia naturalnego. Własna produkcja i własna hurtownia płyt oznaczają krótsze terminy i cenę bez pośredników.",
+      "ctaPrimary": "Zapytaj o wycenę",
+      "ctaSecondary": "Zobacz realizacje",
+      "badgeExperience": "ponad {years} lat na rynku",
+      "badgeOwnProduction": "Własna produkcja i montaż",
+      "badgeMarkets": "Polska · Niemcy · Czechy"
+    },
+    "intro": {
+      "eyebrow": "O firmie",
+      "title": "Rodzinna firma kamieniarska pod granicą",
+      "lead": "„Polonia Granit” to rodzinna firma działająca zarówno na rynku polskim, jak i zagranicznym. Specjalizujemy się w wykonawstwie oraz montażu nagrobków, parapetów, schodów i blatów z granitu.",
+      "body": "Oferujemy pełny zakres usług kamieniarskich: własną produkcję, montaż i kompleksowe wykończenie. Traktujemy kamień jako materiał o bardzo szerokim zastosowaniu i wciąż szukamy nowych sposobów jego wykorzystania. Dzięki wieloletniemu doświadczeniu pomożemy Państwu dobrać materiał i podjąć właściwą decyzję.",
+      "cta": "Poznaj naszą historię"
+    },
+    "offer": {
+      "eyebrow": "Oferta",
+      "title": "Co wykonujemy z kamienia",
+      "subtitle": "Pięć głównych grup wyrobów. Każdą realizujemy od pomiaru u klienta, przez obróbkę w naszym zakładzie, aż po montaż na miejscu.",
+      "items": {
+        "tombstones": {
+          "title": "Nagrobki granitowe",
+          "description": "Nagrobki pojedyncze, podwójne, urnowe i dziecięce. Wzory nowoczesne oraz klasyczne, także w standardzie niemieckim i czeskim."
+        },
+        "countertops": {
+          "title": "Blaty kuchenne i łazienkowe",
+          "description": "Granit, marmur, kwarcyt i konglomerat kwarcowy. Odporne na wysoką temperaturę, zarysowania i zaplamienie."
+        },
+        "windowsills": {
+          "title": "Parapety granitowe",
+          "description": "Parapety wewnętrzne i zewnętrzne odporne na kwaśne deszcze i promienie UV. Powierzchnia polerowana, szlifowana, szczotkowana lub palona."
+        },
+        "stairs": {
+          "title": "Schody granitowe",
+          "description": "Schody wewnętrzne i zewnętrzne z zabezpieczeniem antypoślizgowym, wykonane pod konkretny projekt i wymiar."
+        },
+        "fireplaces": {
+          "title": "Obudowy kominków",
+          "description": "Obudowy z granitu i marmuru do kominków otwartych, wkładów kominkowych i pieców wolnostojących."
+        }
+      }
+    },
+    "materials": {
+      "eyebrow": "Kamienie",
+      "title": "Dwa katalogi, dwa różne materiały",
+      "subtitle": "Granit na nagrobki, parapety i schody. Konglomerat kwarcowy Pacific na blaty i łazienki. Każdy ma osobny katalog — bez mieszania gatunków.",
+      "granites": {
+        "title": "Płyty granitowe",
+        "description": "Kilkadziesiąt gatunków z kamieniołomów. Każda płyta jest unikalna — przy większych zamówieniach warto wybrać ją na miejscu."
+      },
+      "conglomerates": {
+        "title": "Konglomeraty kwarcowe Pacific",
+        "description": "Powtarzalny wzór na całej powierzchni. Ten sam dekór, który widać na wizualizacji, trafi na blat w kuchni."
+      }
+    },
+    "advantages": {
+      "eyebrow": "Dlaczego my",
+      "title": "Sześć powodów, dla których warto",
+      "items": {
+        "quality": {
+          "title": "Jakość materiału",
+          "description": "Granit jako materiał naturalny jest trwały, funkcjonalny i łatwy w utrzymaniu. Nie zawiera związków chemicznych."
+        },
+        "range": {
+          "title": "Szeroki asortyment",
+          "description": "Kilkadziesiąt gatunków kamienia z całego świata pozwala dopasować kolor i strukturę do każdego wnętrza."
+        },
+        "experience": {
+          "title": "Ponad {years} lat doświadczenia",
+          "description": "Ponad dwie dekady na rynku to gwarancja materiału najlepszej jakości i pewności wykonanych usług."
+        },
+        "wholesale": {
+          "title": "Własna hurtownia płyt",
+          "description": "Materiał sprowadzamy bezpośrednio z kamieniołomów w Chinach i Indiach. Bez pośredników, bez czekania na dostawę."
+        },
+        "measurement": {
+          "title": "Pomiar u klienta",
+          "description": "Przyjeżdżamy na miejsce i mierzymy zabudowę, również nietypowe kształty i łuki. Blat pasuje za pierwszym razem."
+        },
+        "installation": {
+          "title": "Montaż i wykończenie",
+          "description": "Odpowiadamy za całość: obróbkę, transport, montaż i wykończenie. Jeden wykonawca, jedna gwarancja."
+        }
+      }
+    },
+    "stats": {
+      "title": "Polonia Granit w liczbach",
+      "years": {
+        "value": "{years}",
+        "label": "lat na rynku kamieniarskim"
+      },
+      "markets": {
+        "value": "3",
+        "label": "rynki: Polska, Niemcy, Czechy"
+      },
+      "warehouses": {
+        "value": "2",
+        "label": "magazyny płyt: Zgorzelec i Rzeszotary"
+      }
+    },
+    "reviews": {
+      "eyebrow": "Opinie klientów",
+      "title": "Co mówią o nas klienci",
+      "subtitle": "Opinie zebrane w profilu Google. Obsługujemy klientów po obu stronach granicy.",
+      "sourceLabel": "Opinia z Google",
+      "cta": "Zobacz wszystkie opinie"
+    },
+    "wholesale": {
+      "eyebrow": "Sprzedaż hurtowa",
+      "title": "Hurtownia kamienia dla firm kamieniarskich",
+      "body": "Prowadzimy sprzedaż hurtową płyt z granitu i konglomeratu kwarcowego PACIFIC. Materiał sprowadzamy bezpośrednio z kamieniołomów w Chinach i Indiach, więc bez trudu obsłużymy zarówno pojedynczą płytę, jak i cały kontener.",
+      "bullets": {
+        "direct": "Import bezpośrednio z kamieniołomów",
+        "stock": "Płyty dostępne od ręki w dwóch magazynach",
+        "delivery": "Ekspresowa dostawa do zakładu"
+      },
+      "cta": "Przejdź do hurtowni",
+      "note": "Sprzedaż hurtowa prowadzona jest w serwisie hurtowniakamienia.eu"
+    },
+    "areas": {
+      "eyebrow": "Zasięg",
+      "title": "Gdzie realizujemy zlecenia",
+      "subtitle": "Zakład mamy w Zgorzelcu, przy samej granicy, dzięki czemu równie sprawnie obsługujemy klientów w Polsce, Niemczech i Czechach.",
+      "cta": "Sprawdź, czy dojeżdżamy do Ciebie"
+    },
+    "kitchenViz": {
+      "eyebrow": "Nowość na stronie",
+      "title": "Zobacz ten kamień w swojej kuchni",
+      "body": "Wrzuć zdjęcie kuchni, wybierz płytę z katalogu — przygotujemy podgląd blatu i okładziny ściany z tego kamienia. Dwie bezpłatne próby dziennie.",
+      "steps": {
+        "photo": "Zrób zdjęcie kuchni tak, żeby było widać blat.",
+        "stone": "Wybierz konglomerat Pacific albo granit z katalogu.",
+        "result": "Dostaniesz podgląd. Jeśli się spodoba — wyślemy wycenę."
+      }
+    },
+    "cta": {
+      "title": "Szukasz odpowiedniego rozwiązania, ale nie możesz podjąć decyzji?",
+      "body": "Napisz albo zadzwoń. Doradzimy w wyborze kamienia, przyjedziemy na pomiar i przygotujemy wycenę bez żadnych zobowiązań.",
+      "primary": "Zapytaj o wycenę",
+      "secondary": "Zadzwoń: {phone}"
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Napiszcie, a przygotujemy wycenę",
+      "body": "Formularz na dole strony — bez przechodzenia dalej. Odpowiadamy zwykle tego samego dnia. Można też przyjechać do zakładu w Zgorzelcu."
+    }
+  },
+  "footer": {
+    "aboutTitle": "O nas",
+    "aboutBody": "„Polonia Granit” to rodzinna firma kamieniarska ze Zgorzelca. Wykonujemy i montujemy nagrobki, parapety, schody oraz blaty z granitu i innych kamieni naturalnych.",
+    "offerTitle": "Oferta",
+    "companyTitle": "Firma",
+    "contactTitle": "Kontakt",
+    "wholesaleTitle": "Sprzedaż hurtowa",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "socialFacebook": "Facebook Polonia Granit",
+    "socialInstagram": "Instagram Polonia Granit"
+  },
+  "notFound": {
+    "title": "Nie znaleziono strony",
+    "body": "Adres, którego szukasz, nie istnieje albo zmienił się przy przebudowie serwisu.",
+    "cta": "Wróć na stronę główną"
+  },
+  "offer": {
+    "common": {
+      "featuresTitle": "Co dokładnie wykonujemy",
+      "processTitle": "Jak wygląda współpraca",
+      "processSubtitle": "Pięć kroków od pierwszego telefonu do gotowego montażu. Za każdy odpowiadamy sami — nie podzlecamy obróbki ani montażu.",
+      "steps": {
+        "talk": {
+          "title": "Rozmowa i doradztwo",
+          "description": "Ustalamy, czego Państwo potrzebują, i podpowiadamy, który kamień sprawdzi się w tym zastosowaniu."
+        },
+        "measure": {
+          "title": "Pomiar u klienta",
+          "description": "Przyjeżdżamy na miejsce i mierzymy zabudowę, także nietypowe kształty, łuki i skosy."
+        },
+        "quote": {
+          "title": "Projekt i wycena",
+          "description": "Przygotowujemy rysunek oraz wycenę z rozbiciem na materiał, obróbkę i montaż. Bez zobowiązań."
+        },
+        "production": {
+          "title": "Obróbka w zakładzie",
+          "description": "Cięcie, formatowanie krawędzi, wycięcia pod zlew i płytę, polerowanie — wszystko u nas."
+        },
+        "install": {
+          "title": "Montaż na miejscu",
+          "description": "Dowozimy, montujemy i wykańczamy. Po sobie sprzątamy i zostawiamy gotowy element."
+        }
+      },
+      "finishesTitle": "Wykończenia powierzchni",
+      "finishesSubtitle": "Ten sam kamień w różnym wykończeniu wygląda i zachowuje się inaczej. Doradzimy, co wybrać do konkretnego zastosowania.",
+      "finishes": {
+        "polished": {
+          "title": "Polerowane",
+          "description": "Lustrzany połysk, najgłębszy kolor kamienia. Najczęstszy wybór do blatów i nagrobków."
+        },
+        "honed": {
+          "title": "Szlifowane",
+          "description": "Matowa, jednolita powierzchnia. Mniej widoczne odciski i zacieki niż na polerze."
+        },
+        "brushed": {
+          "title": "Szczotkowane",
+          "description": "Lekko chropowate w dotyku, dobrze maskuje zabrudzenia. Przyjemne pod ręką."
+        },
+        "flamed": {
+          "title": "Palone",
+          "description": "Silnie antypoślizgowe. Wykończenie na schody zewnętrzne, tarasy i podjazdy."
+        },
+        "leather": {
+          "title": "Satynowe",
+          "description": "Delikatny, jedwabisty połysk. Dostępne w konglomeratach kwarcowych PACIFIC."
+        }
+      },
+      "galleryTitle": "Nasze realizacje",
+      "galleryCta": "Zobacz całą galerię",
+      "stonesCta": "Zobacz płyty granitowe",
+      "breadcrumbHome": "Strona główna"
+    },
+    "tombstones": {
+      "metaTitle": "Nagrobki granitowe — Zgorzelec, Görlitz, Liberec",
+      "metaDescription": "Nagrobki z granitu: pojedyncze, podwójne, urnowe i dziecięce. Własna produkcja i montaż. Obsługujemy Polskę, Niemcy i Czechy.",
+      "title": "Nagrobki granitowe",
+      "lead": "Wykonujemy nagrobki od projektu do montażu na cmentarzu. Pojedyncze i podwójne, urnowe, dziecięce, w formie ziemnej, grobowca albo płyty ukośnej — w standardzie polskim, niemieckim i czeskim.",
+      "body": "Granit to materiał, który przy nagrobku ma decydujące znaczenie: nie chłonie wody, nie kruszy się przy mrozie i nie traci koloru na słońcu. Po dwudziestu latach wygląda tak samo jak w dniu montażu, a do utrzymania wystarcza woda. Doradzamy w wyborze gatunku i formy, przygotowujemy rysunek z liternictwem, a po zatwierdzeniu wykonujemy i montujemy całość — razem z podstawą, obramowaniem i akcesoriami.",
+      "features": {
+        "one": "Nagrobki pojedyncze i podwójne — ziemne, grobowce oraz płyty ukośne",
+        "two": "Nagrobki urnowe i dziecięce, także w nietypowych wymiarach",
+        "three": "Standard niemiecki i czeski — inne proporcje, obramowania i sposób montażu",
+        "four": "Liternictwo: grawer, litery ze stali nierdzewnej, złocenie, zdjęcia ceramiczne",
+        "five": "Renowacja i uzupełnienia istniejących nagrobków, dostawianie tablic"
+      }
+    },
+    "countertops": {
+      "metaTitle": "Blaty kuchenne i łazienkowe z kamienia — Zgorzelec",
+      "metaDescription": "Blaty z granitu, marmuru, kwarcytu i konglomeratu kwarcowego PACIFIC. Pomiar u klienta, obróbka w naszym zakładzie, montaż.",
+      "title": "Blaty kuchenne i łazienkowe",
+      "lead": "Blaty z granitu, marmuru, kwarcytu i konglomeratu kwarcowego. Odporne na wysoką temperaturę, zarysowania i zaplamienie — w kuchni, w której się gotuje, to nie dodatek, a warunek.",
+      "body": "Blat to element, którego używa się codziennie przez kilkanaście lat, dlatego liczy się nie tylko kolor. Granit i kwarcyt są twarde i praktycznie niewrażliwe na gorące naczynia. Konglomerat kwarcowy PACIFIC daje jednolity wzór i pełną odporność na plamy, także przy jasnych, marmurowych dekorach. Marmur wybieramy tam, gdzie wygląd jest ważniejszy niż całkowita bezobsługowość — i mówimy o tym wprost przed zamówieniem.",
+      "features": {
+        "one": "Blaty kuchenne, wyspy, blaty barowe i podokienniki w jednym materiale",
+        "two": "Blaty łazienkowe pod umywalki nablatowe i podblatowe",
+        "three": "Wycięcia pod zlew, płytę indukcyjną, baterię i gniazda",
+        "four": "Obróbka krawędzi: proste, fazowane, zaokrąglone, pogrubiane",
+        "five": "Ścianki przyblatowe i pełne okładziny między szafkami"
+      }
+    },
+    "windowsills": {
+      "metaTitle": "Parapety granitowe wewnętrzne i zewnętrzne — Zgorzelec",
+      "metaDescription": "Parapety z granitu odporne na kwaśne deszcze i promienie UV. Wykończenie polerowane, szlifowane, szczotkowane lub palone.",
+      "title": "Parapety granitowe",
+      "lead": "Parapety wewnętrzne i zewnętrzne z kamienia naturalnego. Odporne na kwaśne deszcze, mróz i promienie UV — nie żółkną i nie odbarwiają się jak parapety z konglomeratu marmurowego.",
+      "body": "Parapet zewnętrzny pracuje w najtrudniejszych warunkach w całym budynku: zalewa go woda, zimą zamarza, latem nagrzewa się na słońcu. Granit znosi to bez zmian, dlatego przy oknach zewnętrznych odradzamy tańsze materiały. Wewnątrz parapet z tego samego kamienia co blat albo schody spina wnętrze w całość. Wykonujemy także nosy kapinosowe, podcięcia i wykończenia pod rolety.",
+      "features": {
+        "one": "Parapety wewnętrzne w dowolnej długości, także łączone bez widocznej spoiny",
+        "two": "Parapety zewnętrzne z kapinosem odprowadzającym wodę od elewacji",
+        "three": "Wycięcia i podcięcia pod ościeżnice, rolety i grzejniki",
+        "four": "Wykończenie dopasowane do miejsca: polerowane, szlifowane lub palone",
+        "five": "Progi drzwiowe i podokienniki z tego samego materiału"
+      }
+    },
+    "stairs": {
+      "metaTitle": "Schody granitowe wewnętrzne i zewnętrzne — Zgorzelec",
+      "metaDescription": "Schody z granitu z zabezpieczeniem antypoślizgowym. Stopnie, podstopnice, cokoły i spoczniki na wymiar.",
+      "title": "Schody granitowe",
+      "lead": "Schody wewnętrzne i zewnętrzne wykonane pod konkretny projekt i wymiar, z wykończeniem antypoślizgowym tam, gdzie jest potrzebne.",
+      "body": "Schody z kamienia robi się raz i zostają na dekady, dlatego pomiar jest tu ważniejszy niż gdziekolwiek indziej — każdy stopień w budowanym domu ma inną wysokość. Przyjeżdżamy, mierzymy każdy bieg osobno i dopiero wtedy tniemy materiał. Na zewnątrz standardem jest wykończenie palone albo szczotkowane oraz nacięcia antypoślizgowe; wewnątrz najczęściej poler lub szlif. Wykonujemy stopnie, podstopnice, cokoły, spoczniki i policzki.",
+      "features": {
+        "one": "Stopnie i podstopnice na wymiar, także trapezowe i zabiegowe",
+        "two": "Nacięcia i pasy antypoślizgowe na stopniach zewnętrznych",
+        "three": "Cokoły, listwy przypodłogowe i policzki w tym samym kamieniu",
+        "four": "Spoczniki i podesty z płyt wielkoformatowych",
+        "five": "Schody zewnętrzne z wykończeniem palonym lub szczotkowanym"
+      }
+    },
+    "fireplaces": {
+      "metaTitle": "Obudowy kominków z granitu i marmuru — Zgorzelec",
+      "metaDescription": "Obudowy kominkowe z kamienia naturalnego do kominków otwartych, wkładów i pieców wolnostojących. Projekt i montaż.",
+      "title": "Obudowy kominków",
+      "lead": "Obudowy z granitu i marmuru do kominków otwartych, wkładów kominkowych i pieców wolnostojących — od prostych, nowoczesnych brył po formy klasyczne.",
+      "body": "Kamień przy kominku pracuje w wysokiej temperaturze i musi znosić cykliczne nagrzewanie oraz wychładzanie. Granit i wybrane marmury radzą sobie z tym bez pękania, a przy okazji akumulują ciepło i oddają je długo po wygaśnięciu ognia. Obudowę projektujemy pod konkretny wkład — z zachowaniem odległości wymaganych przez producenta — i montujemy razem z półką, podstawą oraz obramowaniem paleniska.",
+      "features": {
+        "one": "Obudowy pod wkłady kominkowe dowolnego producenta",
+        "two": "Płyty podpaleniskowe i podstawy pod piece wolnostojące",
+        "three": "Półki kominkowe i gzymsy z jednego kawałka kamienia",
+        "four": "Obramowania palenisk w kominkach otwartych",
+        "five": "Okładziny ścian wokół kominka spójne z obudową"
+      }
+    }
+  },
+  "stones": {
+    "metaTitle": "Katalog kamieni — granity i konglomeraty kwarcowe PACIFIC",
+    "metaDescription": "Kilkadziesiąt gatunków granitu oraz konglomeraty kwarcowe PACIFIC. Filtruj po kolorze i rodzaju materiału, zapytaj o dostępność.",
+    "title": "Katalog kamieni",
+    "lead": "Kilkadziesiąt gatunków granitu i konglomeratu kwarcowego, które mamy w stałej ofercie. Materiał sprowadzamy bezpośrednio z kamieniołomów, więc większość pozycji jest dostępna od ręki w magazynie.",
+    "body": "Próbki na zdjęciach oddają wzór i odcień, ale kamień naturalny nigdy nie jest identyczny na całej płycie — dwie płyty tego samego gatunku mogą różnić się układem żyłek i nasyceniem koloru. Dlatego przy większych zamówieniach zapraszamy do magazynu, żeby wybrać konkretną płytę. Konglomeraty kwarcowe PACIFIC są pod tym względem powtarzalne: wzór jest jednolity na każdej płycie.",
+    "filterMaterial": "Rodzaj materiału",
+    "filterColor": "Kolor",
+    "all": "Wszystkie",
+    "resultsAll": "Wszystkie gatunki",
+    "empty": "Brak kamieni spełniających wybrane kryteria.",
+    "reset": "Wyczyść filtry",
+    "materials": {
+      "granit": "Granit",
+      "konglomerat": "Konglomerat kwarcowy"
+    },
+    "colors": {
+      "czarny": "Czarny",
+      "grafitowy": "Grafitowy",
+      "szary": "Szary",
+      "jasny": "Jasny",
+      "bezowy": "Beżowy",
+      "brazowy": "Brązowy",
+      "czerwony": "Czerwony",
+      "zielony": "Zielony",
+      "niebieski": "Niebieski",
+      "wielokolorowy": "Wielokolorowy"
+    },
+    "finishes": {
+      "polerowany": "Polerowany",
+      "satynowy": "Satynowy"
+    },
+    "sampleNote": "Kolory na ekranie mogą różnić się od rzeczywistych. Przed zamówieniem warto zobaczyć próbkę na miejscu.",
+    "ctaTitle": "Nie wiadomo, który kamień wybrać?",
+    "ctaBody": "Napiszcie, do czego ma posłużyć — nagrobek, blat, parapety — a podpowiemy, które gatunki sprawdzą się najlepiej i które mamy teraz na magazynie."
+  },
+  "granites": {
+    "metaTitle": "Płyty granitowe — katalog gatunków",
+    "metaDescription": "Kilkadziesiąt gatunków granitu na nagrobki, blaty, parapety i schody. Filtruj po kolorze i zapytaj o dostępność w magazynie w Zgorzelcu.",
+    "title": "Płyty granitowe",
+    "lead": "Gatunki granitu, które mamy w stałej ofercie. Materiał sprowadzamy bezpośrednio z kamieniołomów, więc większość pozycji jest dostępna od ręki w magazynie.",
+    "body": "Próbki na zdjęciach oddają wzór i odcień, ale kamień naturalny nigdy nie jest identyczny na całej płycie — dwie płyty tego samego gatunku mogą różnić się układem żyłek i nasyceniem koloru. Dlatego przy większych zamówieniach zapraszamy do magazynu, żeby wybrać konkretną płytę.",
+    "siblingCta": "Zobacz konglomeraty kwarcowe Pacific",
+    "ctaTitle": "Nie wiadomo, który granit wybrać?",
+    "ctaBody": "Napiszcie, do czego ma posłużyć — nagrobek, blat, parapety — a podpowiemy, które gatunki sprawdzą się najlepiej i które mamy teraz na magazynie."
+  },
+  "conglomerates": {
+    "metaTitle": "Konglomeraty kwarcowe Pacific — katalog wzorów",
+    "metaDescription": "Konglomeraty kwarcowe Pacific na blaty, wyspy i łazienki. Wzór powtarzalny na całej płycie. Filtruj po kolorze i zapytaj o dostępność.",
+    "title": "Konglomeraty kwarcowe Pacific",
+    "lead": "Konglomerat kwarcowy Pacific jest powtarzalny: wzór wygląda tak samo na każdej płycie. Nadaje się na blaty kuchenne, wyspy i zabudowy łazienkowe.",
+    "body": "W przeciwieństwie do granitu konglomerat nie ma naturalnych żyłek, które zmieniają się od płyty do płyty. Aranżacja ze zdjęcia odpowiada temu, co dostaną Państwo u siebie. Wzory z tej kolekcji pokazujemy też w gotowych wnętrzach — w zakładce Wizualizacje.",
+    "siblingCta": "Zobacz płyty granitowe",
+    "ctaTitle": "Szukacie wzoru na blat?",
+    "ctaBody": "Napiszcie wymiary i przeznaczenie — podpowiemy, które dekory Pacific sprawdzą się w kuchni albo łazience i które mamy teraz na magazynie."
+  },
+  "gallery": {
+    "metaTitle": "Realizacje — galeria nagrobków granitowych",
+    "metaDescription": "Ponad czterysta zdjęć wykonanych przez nas nagrobków, podzielonych na typy: nowoczesne, grobowce, ziemne, podwójne, urnowe i dziecięce.",
+    "title": "Realizacje",
+    "lead": "Zdjęcia nagrobków, które wykonaliśmy i zamontowaliśmy. Podzieliliśmy je na typy — łatwiej wtedy znaleźć formę odpowiadającą konkretnemu miejscu na cmentarzu.",
+    "allTypes": "Wszystkie typy",
+    "typesTitle": "Typy nagrobków",
+    "countLabel": "{count, plural, one {# zdjęcie} few {# zdjęcia} many {# zdjęć} other {# zdjęcia}}",
+    "photoAlt": "{type} — realizacja Polonia Granit nr {index}",
+    "backToAll": "Wróć do wszystkich typów",
+    "typeMetaTitle": "{type} — realizacje Polonia Granit",
+    "note": "Każdy nagrobek wykonujemy na wymiar konkretnego miejsca, więc zdjęcia traktujcie jako inspirację, a nie zamknięty katalog wzorów. Formę i liternictwo ustalamy indywidualnie.",
+    "types": {
+      "nowoczesne": {
+        "name": "Nagrobki nowoczesne",
+        "description": "Proste bryły, oszczędna forma, duże płaszczyzny polerowanego kamienia."
+      },
+      "grobowce": {
+        "name": "Grobowce",
+        "description": "Nagrobki z komorą grobową, murowane pod płytą i wykończone kamieniem."
+      },
+      "ziemne": {
+        "name": "Nagrobki ziemne",
+        "description": "Klasyczna forma z obramowaniem i miejscem na obsadzenie roślin."
+      },
+      "podwojne": {
+        "name": "Nagrobki podwójne",
+        "description": "Nagrobki dla dwóch osób — w wersji ziemnej i grobowcowej."
+      },
+      "ukosne": {
+        "name": "Nagrobki ukośne",
+        "description": "Płyta pochylona pod kątem, spotykana głównie na cmentarzach niemieckich."
+      },
+      "urnowe": {
+        "name": "Nagrobki urnowe",
+        "description": "Mniejsze formy przeznaczone do pochówku urnowego."
+      },
+      "dzieciece": {
+        "name": "Nagrobki dziecięce",
+        "description": "Delikatniejsze formy i mniejsze wymiary, często z indywidualnym zdobieniem."
+      },
+      "niemieckie": {
+        "name": "Nagrobki w standardzie niemieckim",
+        "description": "Proporcje, obramowania i sposób montażu zgodne z wymogami cmentarzy w Niemczech."
+      },
+      "czeskie": {
+        "name": "Nagrobki w standardzie czeskim",
+        "description": "Formy typowe dla cmentarzy czeskich, z charakterystycznym obramowaniem."
+      },
+      "blaty": {
+        "name": "Blaty kuchenne",
+        "description": "Blaty z granitu i konglomeratu kwarcowego — nasze realizacje w kuchniach klientów."
+      },
+      "schody": {
+        "name": "Schody granitowe",
+        "description": "Schody wewnętrzne i zewnętrzne z kamienia, dopasowane do budynku i terenu."
+      },
+      "pozostale": {
+        "name": "Pozostałe realizacje",
+        "description": "Prace, które nie mieszczą się w pozostałych kategoriach."
+      }
+    },
+    "lightbox": {
+      "close": "Zamknij",
+      "prev": "Poprzednie zdjęcie",
+      "next": "Następne zdjęcie",
+      "counter": "{current} z {total}",
+      "openHint": "Powiększ zdjęcie"
+    }
+  },
+  "about": {
+    "metaTitle": "O firmie — rodzinne kamieniarstwo w Zgorzelcu",
+    "metaDescription": "Polonia Granit to rodzinna firma kamieniarska ze Zgorzelca z ponad 20-letnim doświadczeniem. Własna produkcja, montaż i kompleksowe wykończenie.",
+    "title": "O firmie",
+    "lead": "Rodzinna firma kamieniarska ze Zgorzelca, działająca na rynku polskim, niemieckim i czeskim. Wykonujemy i montujemy nagrobki, parapety, schody oraz blaty z granitu.",
+    "body1": "Oferujemy szeroki zakres usług kamieniarskich: własna produkcja, montaż i kompleksowe wykończenie. Swoją pozycję na rynku zdobyliśmy dzięki ponad 20-letniemu doświadczeniu, które przekłada się na jakość wykonywanych prac.",
+    "body2": "Traktujemy kamień jako materiał o bardzo szerokim zastosowaniu i wciąż szukamy nowych sposobów jego wykorzystania. Śledzimy nowości i trendy w branży, a ofertę poszerzamy tak, żeby odpowiadała temu, o co pytają klienci.",
+    "body3": "Dzięki wieloletniemu doświadczeniu pomożemy Państwu podjąć decyzję i wybrać właściwe rozwiązanie. Doradzimy przy wyborze kamienia, formy i wykończenia — tak, żeby efekt nie wymagał poprawek.",
+    "offerTitle": "W naszej ofercie znajdą Państwo",
+    "offerItems": {
+      "tombstones": "nagrobki granitowe",
+      "windowsills": "parapety wewnętrzne i zewnętrzne",
+      "stairs": "schody",
+      "countertops": "blaty kuchenne i łazienkowe",
+      "fireplaces": "obudowy kominków",
+      "more": "oraz obróbkę kamienia na wymiar"
+    },
+    "galleryTitle": "Zakład i magazyn",
+    "gallerySubtitle": "Obróbkę i montaż wykonujemy sami — nie podzlecamy ich dalej."
+  },
+  "visualisations": {
+    "metaTitle": "Wizualizacje — konglomeraty kwarcowe PACIFIC w aranżacjach",
+    "metaDescription": "Zdjęcia aranżacyjne konglomeratów kwarcowych PACIFIC: blaty kuchenne, wyspy i łazienki. Zobacz, jak każdy wzór wygląda w gotowym wnętrzu.",
+    "title": "Wizualizacje",
+    "lead": "Konglomeraty kwarcowe PACIFIC w gotowych wnętrzach. Próbka pokazuje wzór z bliska, ale dopiero cała zabudowa mówi, jak kamień zachowa się w kuchni czy łazience.",
+    "body": "Wszystkie wzory z tej galerii mamy w katalogu konglomeratów kwarcowych Pacific. Konglomerat jest powtarzalny — płyta wygląda tak samo na całej powierzchni, więc aranżacja ze zdjęcia odpowiada temu, co dostaną Państwo u siebie.",
+    "note": "Zdjęcia aranżacyjne pochodzą od producenta płyt PACIFIC.",
+    "stonesCta": "Zobacz katalog konglomeratów Pacific"
+  },
+  "kitchenViz": {
+    "metaTitle": "Kamień w Twojej kuchni — wizualizacja blatu ze zdjęcia",
+    "metaDescription": "Wrzuć zdjęcie swojej kuchni i zobacz, jak wyglądałby blat i ściana z wybranego granitu albo konglomeratu kwarcowego Pacific. Dwie bezpłatne wizualizacje dziennie.",
+    "title": "Kamień w Twojej kuchni",
+    "lead": "Zdjęcie kuchni plus wybrana płyta. Przygotujemy podgląd blatu i okładziny ściany — zanim zamówicie pomiar.",
+    "body": "To podgląd, nie zdjęcie gotowej realizacji. Kamień kładziemy na blat i na ścianę między blatem a szafkami, tak jak przy prawdziwym montażu. Konglomeraty Pacific mają powtarzalny wzór, więc wizualizacja jest bliska rzeczywistości. Przy granicie żyłki na konkretnej płycie zawsze trochę się różnią — po to zapraszamy do magazynu.",
+    "steps": {
+      "photo": "Wrzuć zdjęcie kuchni z widocznym blatem.",
+      "stone": "Wybierz kamień z katalogu.",
+      "result": "Dostaniesz podgląd. Potem wycena bez zobowiązań."
+    },
+    "uploadLabel": "Zdjęcie kuchni",
+    "uploadHint": "Kliknij i wybierz zdjęcie albo zrób je telefonem. JPEG, PNG albo WebP, do 8 MB.",
+    "uploadChange": "Kliknij miniaturę, żeby wstawić inne zdjęcie.",
+    "stonesLabel": "Kamień na blat i ścianę",
+    "materialPacific": "Konglomeraty Pacific",
+    "materialGranite": "Płyty granitowe",
+    "graniteNote": "Granit jest naturalny — wzór na wizualizacji jest przybliżeniem, nie kopią konkretnej płyty.",
+    "generate": "Pokaż wizualizację",
+    "generating": "Przygotowujemy podgląd…",
+    "generatingHint": "To trwa zwykle 15–30 sekund. Strony nie zamykaj.",
+    "remaining": "Zostało {count} z {limit} wizualizacji na dziś.",
+    "unlimited": "Tryb testowy — bez limitu dziennego.",
+    "consent": "Zdjęcie kuchni zostanie wysłane do modelu graficznego wyłącznie po to, żeby przygotować podgląd. Nie zapisujemy go na stałe. Szczegóły w <privacy>polityce prywatności</privacy>.",
+    "disclaimer": "Wizualizacja jest podglądem aranżacyjnym. Kolor na ekranie zależy od monitora i oświetlenia na zdjęciu. Ostateczny wygląd blatu ustalamy na płycie w magazynie.",
+    "originalAlt": "Wasze zdjęcie kuchni",
+    "originalCaption": "Wasze zdjęcie",
+    "zoomHint": "Kliknij, żeby powiększyć",
+    "closePreview": "Zamknij powiększenie",
+    "resultAlt": "Podgląd kuchni z blatem {stone}",
+    "resultCaption": "Podgląd z kamieniem {stone}",
+    "download": "Pobierz podgląd",
+    "quoteCta": "Poproś o wycenę tego blatu",
+    "quoteHint": "Do wyceny możecie dołączyć to zdjęcie.",
+    "selectedStone": "Wybrany kamień: {stone}",
+    "ctaTitle": "Podgląd się zgadza?",
+    "ctaBody": "Napiszcie albo zadzwońcie. Przyjedziemy na pomiar i przygotujemy wycenę bez zobowiązań.",
+    "errors": {
+      "photo": "Dodajcie zdjęcie kuchni.",
+      "stone": "Wybierzcie kamień z katalogu.",
+      "consent": "Potrzebujemy zgody, żeby przygotować podgląd.",
+      "type": "Dopuszczamy JPEG, PNG i WebP.",
+      "tooLarge": "Zdjęcie może mieć najwyżej 8 MB.",
+      "rate": "Na dziś wykorzystaliście oba podglądy. Jutro można spróbować ponownie — albo od razu napisać po wycenę.",
+      "unconfigured": "Wizualizacja czeka na klucz OpenAI po stronie serwera. Formularz wyceny działa bez tego.",
+      "generic": "Nie udało się przygotować podglądu. Spróbujcie innym zdjęciem albo napiszcie do nas."
+    }
+  },
+  "faq": {
+    "metaTitle": "Pytania i odpowiedzi — nagrobki, blaty i parapety z granitu",
+    "metaDescription": "Odpowiedzi na pytania, które najczęściej dostajemy: pomiar, montaż na cmentarzach w Niemczech i Czechach, różnice między granitem a konglomeratem, pielęgnacja kamienia.",
+    "title": "Pytania i odpowiedzi",
+    "lead": "Zebraliśmy pytania, które najczęściej słyszymy przy pierwszej rozmowie. Jeśli czegoś tu brakuje — wystarczy zadzwonić.",
+    "items": {
+      "measure": {
+        "q": "Czy przyjeżdżają Państwo na pomiar?",
+        "a": "Tak, pomiar wykonujemy na miejscu i jest to standardowy etap każdego zlecenia. Mierzymy również nietypowe kształty, łuki i skosy — dzięki temu blat czy parapet pasuje za pierwszym razem, bez dopasowywania na miejscu."
+      },
+      "abroad": {
+        "q": "Czy montują Państwo nagrobki na cmentarzach w Niemczech i Czechach?",
+        "a": "Tak. Obsługujemy klientów w Polsce, Niemczech i Czechach, a nagrobki wykonujemy w standardach obowiązujących na cmentarzach po obu stronach granicy — z odpowiednimi proporcjami, obramowaniem i sposobem montażu."
+      },
+      "granite": {
+        "q": "Czym różni się granit od konglomeratu kwarcowego?",
+        "a": "Granit to kamień naturalny — każda płyta ma własny układ żyłek, więc dwie płyty tego samego gatunku nigdy nie są identyczne. Konglomerat kwarcowy jest materiałem produkowanym, o powtarzalnym wzorze na całej powierzchni. Do nagrobków i elementów zewnętrznych polecamy granit, do blatów kuchennych oba materiały sprawdzają się dobrze."
+      },
+      "finishes": {
+        "q": "Jakie wykończenia powierzchni są dostępne?",
+        "a": "Polerowane, szlifowane, szczotkowane i palone, a w konglomeratach kwarcowych PACIFIC także satynowe. Wybór ma znaczenie praktyczne: poler daje najgłębszy kolor, a palenie — powierzchnię antypoślizgową na schody zewnętrzne i tarasy."
+      },
+      "warehouse": {
+        "q": "Czy można zobaczyć płyty przed zamówieniem?",
+        "a": "Tak, zapraszamy do magazynu. Przy kamieniu naturalnym to najrozsądniejsza kolejność — na ekranie kolory wyglądają inaczej, a przy większych zamówieniach warto wybrać konkretną płytę."
+      },
+      "quote": {
+        "q": "Ile kosztuje wycena?",
+        "a": "Wycena jest bezpłatna i nie zobowiązuje do zamówienia. Przygotowujemy ją z rozbiciem na materiał, obróbkę i montaż, żeby było widać, za co się płaci."
+      },
+      "care": {
+        "q": "Jak dbać o kamień po montażu?",
+        "a": "Granit wystarczy myć wodą z łagodnym detergentem. Warto unikać środków na bazie kwasów i octu oraz proszków do szorowania — matowią poler. Na blaty kuchenne polecamy podkładki pod gorące naczynia, mimo że kamień jest odporny na temperaturę."
+      },
+      "wholesale": {
+        "q": "Czy sprzedają Państwo kamień hurtowo?",
+        "a": "Tak, sprzedażą płyt zajmuje się nasza hurtownia hurtowniakamienia.eu. Materiał sprowadzamy bezpośrednio z kamieniołomów, więc kupując u nas nie płacą Państwo za pośrednika."
+      }
+    },
+    "ctaTitle": "Nie ma tu Państwa pytania?",
+    "ctaBody": "Zadzwońcie albo napiszcie — odpowiemy konkretnie na to, co dotyczy Waszego zlecenia."
+  },
+  "contact": {
+    "metaTitle": "Kontakt — Polonia Granit, Zgorzelec",
+    "metaDescription": "Zadzwoń, napisz albo przyjedź do nas: ul. Łużycka 89, 59-900 Zgorzelec. Czynne od poniedziałku do piątku 9:00–17:00, w sobotę 9:00–13:00.",
+    "title": "Kontakt",
+    "lead": "Najszybciej odpowiemy na telefon. Można też napisać maila albo przyjechać do zakładu — chętnie pokażemy płyty na miejscu.",
+    "callTitle": "Zadzwoń",
+    "callBody": "Numery biura. Jeśli nie odbieramy, jesteśmy przy maszynach — proszę spróbować chwilę później.",
+    "writeTitle": "Napisz",
+    "writeBody": "Do maila można od razu dołączyć wymiary, zdjęcie miejsca albo rysunek. Odpowiadamy zwykle tego samego dnia.",
+    "visitTitle": "Odwiedź nas",
+    "visitBody": "Siedziba firmy i magazyn płyt.",
+    "hoursTitle": "Godziny pracy",
+    "mapCta": "Wyznacz dojazd",
+    "mapTitle": "Jak do nas trafić",
+    "mapLoad": "Pokaż mapę",
+    "mapLoadHint": "Mapa ładuje się z Google dopiero po kliknięciu — bez tego strona nie korzysta z ich plików cookies.",
+    "wholesaleTitle": "Sprzedaż hurtowa płyt",
+    "wholesaleBody": "Za hurtową sprzedaż kamienia odpowiada osobny serwis — hurtowniakamienia.eu.",
+    "legalTitle": "Dane firmy",
+    "formTitle": "Formularz zapytania",
+    "formLead": "Wypełnijcie formularz — odpowiadamy zwykle tego samego dnia. Do wiadomości można dołączyć zdjęcie miejsca albo rysunek.",
+    "form": {
+      "name": "Imię i nazwisko",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "topic": "Temat",
+      "topicPlaceholder": "Wybierz temat",
+      "message": "Wiadomość",
+      "files": "Zdjęcia lub rysunki (opcjonalnie)",
+      "filesHint": "Do 3 plików, maksymalnie 4 MB każdy. JPEG, PNG, WebP, HEIC albo PDF.",
+      "consent": "Wyrażam zgodę na przetwarzanie danych w celu odpowiedzi na zapytanie. Szczegóły w <privacy>polityce prywatności</privacy>.",
+      "submit": "Wyślij zapytanie",
+      "sending": "Wysyłanie…",
+      "successTitle": "Dziękujemy za wiadomość",
+      "successBody": "Odebraliśmy zapytanie i odezwiemy się najszybciej, jak to możliwe. W pilnych sprawach prosimy dzwonić.",
+      "topics": {
+        "tombstones": "Nagrobki",
+        "countertops": "Blaty",
+        "windowsills": "Parapety",
+        "stairs": "Schody",
+        "fireplaces": "Kominki",
+        "granites": "Płyty granitowe",
+        "conglomerates": "Konglomeraty kwarcowe Pacific",
+        "other": "Inne"
+      },
+      "errors": {
+        "name": "Podaj imię i nazwisko (min. 2 znaki).",
+        "email": "Podaj prawidłowy adres e-mail.",
+        "phone": "Podaj numer telefonu.",
+        "message": "Napisz kilka zdań (min. 10 znaków).",
+        "consent": "Potrzebujemy zgody, żeby odpowiedzieć na zapytanie.",
+        "rate": "Proszę poczekać chwilę przed kolejną wysyłką.",
+        "generic": "Nie udało się wysłać wiadomości. Proszę zadzwonić albo napisać maila.",
+        "files": {
+          "tooMany": "Można dodać najwyżej 3 pliki.",
+          "tooLarge": "Każdy plik może mieć najwyżej 4 MB.",
+          "type": "Dopuszczamy JPEG, PNG, WebP, HEIC i PDF."
+        }
+      }
+    }
+  },
+  "privacy": {
+    "metaTitle": "Polityka prywatności i cookies",
+    "metaDescription": "Zasady przetwarzania danych osobowych i wykorzystania plików cookies na stronie Polonia Granit.",
+    "title": "Polityka prywatności i cookies",
+    "lead": "Podanie danych osobowych jest zawsze dobrowolne. W każdej chwili mają Państwo prawo do wglądu, sprostowania albo usunięcia swoich danych.",
+    "sections": {
+      "controller": {
+        "title": "Administrator danych",
+        "body": "Administratorem danych osobowych zbieranych przez tę stronę jest {legalName}, {address}, NIP {taxId}. Kontakt: {email}."
+      },
+      "data": {
+        "title": "Jakie dane przetwarzamy",
+        "body": "Przetwarzamy tylko te dane, które Państwo sami nam przekazują: imię, adres e-mail, numer telefonu, treść zapytania oraz — jeśli zostaną dołączone — zdjęcia i rysunki. Przy wizualizacji kuchni przetwarzamy wyłącznie przesłane zdjęcie kuchni i wybór kamienia, na czas wygenerowania podglądu."
+      },
+      "purpose": {
+        "title": "Cel i podstawa prawna",
+        "body": "Dane przetwarzamy w celu odpowiedzi na zapytanie i realizacji zlecenia (art. 6 ust. 1 lit. b RODO) oraz w celu prowadzenia korespondencji handlowej, co stanowi nasz prawnie uzasadniony interes (art. 6 ust. 1 lit. f RODO)."
+      },
+      "retention": {
+        "title": "Jak długo przechowujemy dane",
+        "body": "Korespondencję z zapytaniami przechowujemy przez okres niezbędny do obsługi sprawy, a w razie realizacji zlecenia — przez czas wymagany przepisami podatkowymi i rachunkowymi."
+      },
+      "recipients": {
+        "title": "Komu przekazujemy dane",
+        "body": "Dane z formularza trafiają do podmiotów, które obsługują naszą stronę i pocztę: dostawcy hostingu oraz dostawcy usługi wysyłki wiadomości. Zdjęcie kuchni z wizualizacji jest przekazywane do OpenAI wyłącznie w celu wygenerowania podglądu i nie jest przez nas przechowywane. Nie sprzedajemy ani nie udostępniamy danych w celach marketingowych. Wyjątkiem są sytuacje, w których obowiązujące prawo nakazuje udostępnienie danych organom państwowym."
+      },
+      "visualization": {
+        "title": "Wizualizacja kuchni",
+        "body": "Narzędzie „Kamień w kuchni” wysyła zdjęcie kuchni i próbkę wybranego kamienia do modelu graficznego OpenAI, żeby przygotować podgląd blatu. Zgoda jest dobrowolna. Zdjęcia nie zapisujemy na naszych serwerach po wygenerowaniu podglądu. Limit dwóch wizualizacji dziennie służy wyłącznie ochronie przed nadużyciami."
+      },
+      "cookies": {
+        "title": "Pliki cookies",
+        "body": "Ta strona nie korzysta z cookies reklamowych ani analitycznych. Zapisujemy plik techniczny z wybraną wersją językową oraz — przy korzystaniu z wizualizacji kuchni — techniczny licznik dziennych prób. Na stronie głównej i na stronie kontaktu osadzamy mapę Google, która może ustawić pliki cookies Google. Cookies można w każdej chwili usunąć lub zablokować w ustawieniach przeglądarki."
+      },
+      "rights": {
+        "title": "Państwa prawa",
+        "body": "Mają Państwo prawo dostępu do swoich danych, ich sprostowania, usunięcia lub ograniczenia przetwarzania, prawo do wniesienia sprzeciwu, prawo do przenoszenia danych oraz prawo do cofnięcia zgody w dowolnym momencie. Przysługuje Państwu również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych."
+      },
+      "changes": {
+        "title": "Zmiany polityki",
+        "body": "Zastrzegamy sobie prawo zmiany tej polityki, jeśli będzie tego wymagać obowiązujące prawo albo zmienią się warunki techniczne działania strony. Aktualna wersja jest zawsze dostępna pod tym adresem."
+      },
+      "contact": {
+        "title": "Kontakt w sprawie danych",
+        "body": "W sprawach dotyczących danych osobowych można napisać na {email} albo skontaktować się z nami pod adresem siedziby."
+      }
+    }
+  }
+}

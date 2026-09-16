@@ -1,0 +1,701 @@
+{
+  "meta": {
+    "locale": "čeština",
+    "siteName": "Polonia Granit",
+    "tagline": "Kamenictví ve Zgorzelci, hned u hranice"
+  },
+  "nav": {
+    "about": "O nás",
+    "offer": "Nabídka",
+    "tombstones": "Náhrobky",
+    "countertops": "Kuchyňské desky",
+    "windowsills": "Parapety",
+    "stairs": "Schody",
+    "fireplaces": "Krby",
+    "materials": "Druhy kamene",
+    "stones": "Katalog kamene",
+    "granites": "Žulové desky",
+    "conglomerates": "Křemenné konglomeráty Pacific",
+    "kitchenViz": "Kámen v kuchyni",
+    "visualisations": "Vizualizace",
+    "gallery": "Realizace",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "wholesale": "Velkoobchod",
+    "privacy": "Ochrana osobních údajů",
+    "openMenu": "Otevřít menu",
+    "closeMenu": "Zavřít menu",
+    "skipToContent": "Přejít na obsah",
+    "changeLanguage": "Změnit jazyk",
+    "externalHint": "otevře se v novém panelu"
+  },
+  "common": {
+    "call": "Zavolat",
+    "callUs": "Zavolejte nám",
+    "writeToUs": "Napište nám",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "address": "Adresa",
+    "openingHours": "Otevírací hodiny",
+    "weekdays": "Pondělí – Pátek",
+    "saturday": "Sobota",
+    "sunday": "Neděle",
+    "closed": "zavřeno",
+    "askForQuote": "Nezávazná kalkulace",
+    "quoteShort": "Kalkulace",
+    "freeQuote": "Kalkulace zdarma",
+    "seeOffer": "Zobrazit nabídku",
+    "seeGallery": "Zobrazit realizace",
+    "seeMore": "Zjistit více",
+    "backToTop": "Nahoru",
+    "whatsappCta": "Napsat na WhatsApp",
+    "years": "let"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Kamenictví Zgorzelec · rodinná firma",
+      "title": "Granit, který vydrží generace",
+      "subtitle": "Navrhujeme, vyrábíme a montujeme náhrobky, kuchyňské desky, parapety a schody z přírodního kamene. Vlastní výroba a vlastní velkoobchod s deskami znamenají kratší termíny a cenu bez prostředníků.",
+      "ctaPrimary": "Nezávazná kalkulace",
+      "ctaSecondary": "Zobrazit realizace",
+      "badgeExperience": "více než {years} let na trhu",
+      "badgeOwnProduction": "Vlastní výroba a montáž",
+      "badgeMarkets": "Polsko · Německo · Česko"
+    },
+    "intro": {
+      "eyebrow": "O nás",
+      "title": "Rodinné kamenictví hned u hranice",
+      "lead": "„Polonia Granit“ je rodinná firma působící na polském i zahraničním trhu. Specializujeme se na výrobu a montáž náhrobků, parapetů, schodů a kuchyňských desek z granitu.",
+      "body": "Nabízíme celou škálu kamenických služeb: vlastní výrobu, montáž i kompletní finální úpravy. Kámen pro nás je materiál s velmi širokým využitím a stále hledáme nové možnosti jeho použití. Díky dlouholetým zkušenostem vám pomůžeme vybrat materiál a rozhodnout se správně.",
+      "cta": "Poznejte naši historii"
+    },
+    "offer": {
+      "eyebrow": "Nabídka",
+      "title": "Co vyrábíme z kamene",
+      "subtitle": "Pět hlavních skupin výrobků. Každou realizujeme od zaměření u zákazníka přes zpracování v naší provozovně až po montáž na místě.",
+      "items": {
+        "tombstones": {
+          "title": "Náhrobky z granitu",
+          "description": "Náhrobky jednoduché, dvojité, urnové a dětské. Moderní i klasické vzory, také v německém a českém standardu."
+        },
+        "countertops": {
+          "title": "Kuchyňské a koupelnové desky",
+          "description": "Granit, mramor, kvarcit a křemenný konglomerát. Odolné vůči vysokým teplotám, poškrábání i zašpinění."
+        },
+        "windowsills": {
+          "title": "Granitové parapety",
+          "description": "Vnitřní i vnější parapety odolné proti kyselým dešťům a UV záření. Povrch leštěný, broušený, kartáčovaný nebo opalovaný."
+        },
+        "stairs": {
+          "title": "Granitové schody",
+          "description": "Vnitřní i venkovní schody s protiskluzovou úpravou, zhotovené podle konkrétního projektu a rozměru."
+        },
+        "fireplaces": {
+          "title": "Obklady krbů",
+          "description": "Obklady z granitu a mramoru pro otevřené krby, krbové vložky a samostatně stojící kamna."
+        }
+      }
+    },
+    "materials": {
+      "eyebrow": "Druhy kamene",
+      "title": "Dva katalogy, dva odlišné materiály",
+      "subtitle": "Žula na náhrobky, parapety a schody. Křemenný konglomerát Pacific na kuchyňské desky a koupelny. Každý má vlastní katalog — bez míchaní druhů.",
+      "granites": {
+        "title": "Žulové desky",
+        "description": "Několik desítek druhů z kamenolomů. Každá deska je jedinečná — u větších zakázek se vyplatí vybrat ji na místě."
+      },
+      "conglomerates": {
+        "title": "Křemenné konglomeráty Pacific",
+        "description": "Opakovatelná kresba po celé ploše. Stejný dekor, který vidíte na vizualizaci, přijde na kuchyňskou desku."
+      }
+    },
+    "advantages": {
+      "eyebrow": "Proč my",
+      "title": "Šest důvodů, proč si nás vybrat",
+      "items": {
+        "quality": {
+          "title": "Kvalita materiálu",
+          "description": "Granit je jako přírodní materiál trvalý, funkční a snadno udržovatelný. Neobsahuje žádné chemické látky."
+        },
+        "range": {
+          "title": "Široký sortiment",
+          "description": "Několik desítek druhů kamene z celého světa umožňuje sladit barvu a strukturu s každým interiérem."
+        },
+        "experience": {
+          "title": "Více než {years} let zkušeností",
+          "description": "Více než dvě dekády na trhu jsou zárukou materiálu nejvyšší kvality a spolehlivě odvedené práce."
+        },
+        "wholesale": {
+          "title": "Vlastní velkoobchod s deskami",
+          "description": "Materiál dovážíme přímo z kamenolomů v Číně a Indii. Bez prostředníků a bez čekání na dodávku."
+        },
+        "measurement": {
+          "title": "Zaměření u zákazníka",
+          "description": "Přijedeme na místo a zaměříme zástavbu, včetně atypických tvarů a oblouků. Deska sedne hned napoprvé."
+        },
+        "installation": {
+          "title": "Montáž a finální úpravy",
+          "description": "Odpovídáme za celý průběh: zpracování, dopravu, montáž i finální úpravy. Jeden dodavatel, jedna záruka."
+        }
+      }
+    },
+    "stats": {
+      "title": "Polonia Granit v číslech",
+      "years": {
+        "value": "{years}",
+        "label": "let v kamenickém oboru"
+      },
+      "markets": {
+        "value": "3",
+        "label": "trhy: Polsko, Německo, Česko"
+      },
+      "warehouses": {
+        "value": "2",
+        "label": "sklady desek: Zgorzelec a Rzeszotary"
+      }
+    },
+    "reviews": {
+      "eyebrow": "Hodnocení zákazníků",
+      "title": "Co o nás říkají zákazníci",
+      "subtitle": "Hodnocení z našeho profilu Google. Obsluhujeme zákazníky na obou stranách hranice.",
+      "sourceLabel": "Hodnocení z Google",
+      "cta": "Zobrazit všechna hodnocení"
+    },
+    "wholesale": {
+      "eyebrow": "Velkoobchod",
+      "title": "Velkoobchod s kamenem pro kamenické firmy",
+      "body": "Prodáváme velkoobchodně desky z granitu a z křemenného konglomerátu PACIFIC. Materiál dovážíme přímo z kamenolomů v Číně a Indii, takže zvládneme jak jednu desku, tak celý kontejner.",
+      "bullets": {
+        "direct": "Dovoz přímo z kamenolomů",
+        "stock": "Desky ihned k dispozici ve dvou skladech",
+        "delivery": "Expresní doprava do provozovny"
+      },
+      "cta": "Přejít do velkoobchodu",
+      "note": "Velkoobchodní prodej probíhá na webu hurtowniakamienia.eu"
+    },
+    "areas": {
+      "eyebrow": "Oblast působení",
+      "title": "Kde realizujeme zakázky",
+      "subtitle": "Provozovnu máme ve Zgorzelci přímo u hranice, díky čemuž stejně rychle obsloužíme zákazníky v Polsku, Německu i Česku.",
+      "cta": "Zjistit, zda dojedeme k vám"
+    },
+    "kitchenViz": {
+      "eyebrow": "Novinka na webu",
+      "title": "Podívejte se na ten kámen ve své kuchyni",
+      "body": "Nahrajte fotografii kuchyně, vyberte desku z katalogu — připravíme náhled desky i obkladu stěny z tohoto kamene. Dva bezplatné pokusy denně.",
+      "steps": {
+        "photo": "Vyfoťte kuchyni tak, aby byla vidět pracovní deska.",
+        "stone": "Vyberte konglomerát Pacific nebo žulu z katalogu.",
+        "result": "Dostanete náhled. Pokud se líbí, připravíme kalkulaci."
+      }
+    },
+    "cta": {
+      "title": "Hledáte vhodné řešení, ale nemůžete se rozhodnout?",
+      "body": "Napište nebo zavolejte. Poradíme s výběrem kamene, přijedeme na zaměření a připravíme kalkulaci bez jakýchkoli závazků.",
+      "primary": "Nezávazná kalkulace",
+      "secondary": "Zavolat: {phone}"
+    },
+    "contact": {
+      "eyebrow": "Kontakt",
+      "title": "Napište nám — připravíme kalkulaci",
+      "body": "Formulář je přímo tady dole, bez další stránky. Obvykle odpovíme týž den. Můžete k nám také přijet do provozu ve Zgorzelci."
+    }
+  },
+  "footer": {
+    "aboutTitle": "O nás",
+    "aboutBody": "„Polonia Granit“ je rodinné kamenictví ze Zgorzelce. Vyrábíme a montujeme náhrobky, parapety, schody a desky z granitu a dalších přírodních kamenů.",
+    "offerTitle": "Nabídka",
+    "companyTitle": "Firma",
+    "contactTitle": "Kontakt",
+    "wholesaleTitle": "Velkoobchod",
+    "rights": "Všechna práva vyhrazena.",
+    "socialFacebook": "Facebook Polonia Granit",
+    "socialInstagram": "Instagram Polonia Granit"
+  },
+  "notFound": {
+    "title": "Stránka nenalezena",
+    "body": "Adresa, kterou hledáte, neexistuje nebo se při přestavbě webu změnila.",
+    "cta": "Zpět na úvodní stránku"
+  },
+  "offer": {
+    "common": {
+      "featuresTitle": "Co přesně zhotovujeme",
+      "processTitle": "Jak spolupráce probíhá",
+      "processSubtitle": "Pět kroků od prvního telefonu po hotovou montáž. Za každý ručíme sami — zpracování ani montáž nepředáváme dál.",
+      "steps": {
+        "talk": {
+          "title": "Rozhovor a poradenství",
+          "description": "Zjistíme, co potřebujete, a doporučíme kámen, který se pro dané použití osvědčí."
+        },
+        "measure": {
+          "title": "Zaměření u zákazníka",
+          "description": "Přijedeme na místo a zaměříme zástavbu, včetně atypických tvarů, oblouků a zkosení."
+        },
+        "quote": {
+          "title": "Návrh a kalkulace",
+          "description": "Připravíme výkres a kalkulaci rozdělenou na materiál, zpracování a montáž. Nezávazně."
+        },
+        "production": {
+          "title": "Zpracování v provozovně",
+          "description": "Řezání, úprava hran, výřezy pro dřez a desku, leštění — všechno u nás."
+        },
+        "install": {
+          "title": "Montáž na místě",
+          "description": "Dovezeme, namontujeme a dokončíme detaily. Po sobě uklidíme a předáme hotový prvek."
+        }
+      },
+      "finishesTitle": "Povrchové úpravy",
+      "finishesSubtitle": "Stejný kámen vypadá i se chová v různých úpravách jinak. Poradíme, co zvolit pro konkrétní použití.",
+      "finishes": {
+        "polished": {
+          "title": "Leštěný",
+          "description": "Zrcadlový lesk a nejhlubší barva kamene. Nejčastější volba pro desky a náhrobky."
+        },
+        "honed": {
+          "title": "Broušený",
+          "description": "Matný, jednolitý povrch. Odlesky a vodní stopy jsou méně patrné než na leštěném."
+        },
+        "brushed": {
+          "title": "Kartáčovaný",
+          "description": "Mírně hrubý na dotek, dobře skryje nečistoty. Příjemný pod rukou."
+        },
+        "flamed": {
+          "title": "Opalovaný",
+          "description": "Výrazně protiskluzový. Úprava pro venkovní schody, terasy a nájezdy."
+        },
+        "leather": {
+          "title": "Saténový",
+          "description": "Jemný, hedvábný lesk. Dostupný u křemenných konglomerátů PACIFIC."
+        }
+      },
+      "galleryTitle": "Naše realizace",
+      "galleryCta": "Zobrazit celou galerii",
+      "stonesCta": "Zobrazit žulové desky",
+      "breadcrumbHome": "Úvodní stránka"
+    },
+    "tombstones": {
+      "metaTitle": "Náhrobky z granitu — Liberec, Zgorzelec, Hrádek nad Nisou",
+      "metaDescription": "Náhrobky z granitu: jednoduché, dvojité, urnové a dětské. Vlastní výroba a montáž. Působíme v Česku, Polsku a Německu.",
+      "title": "Náhrobky z granitu",
+      "lead": "Zhotovujeme náhrobky od návrhu až po montáž na hřbitově. Jednoduché i dvojité, urnové, dětské, v podobě hrobu v zemi, mauzolea nebo šikmé desky — v českém, polském i německém standardu.",
+      "body": "U náhrobku rozhoduje materiál: granit nenasakuje vodu, v mrazu se nedrolí a na slunci neztrácí barvu. Po dvaceti letech vypadá stejně jako v den montáže a na údržbu stačí voda. Poradíme s druhem kamene i tvarem, připravíme výkres s písmem a po schválení všechno sami vyrobíme a namontujeme — včetně základu, obruby a doplňků.",
+      "features": {
+        "one": "Náhrobky jednoduché i dvojité — hroby v zemi, mauzolea a šikmé desky",
+        "two": "Urnové a dětské náhrobky, také v atypických rozměrech",
+        "three": "Německý a polský standard — jiné proporce, obruby i způsob montáže",
+        "four": "Písmo: rytina, nerezová písmena, zlacení, keramické fotografie",
+        "five": "Renovace stávajících náhrobků a doplňování dalších tabulek"
+      }
+    },
+    "countertops": {
+      "metaTitle": "Kuchyňské a koupelnové desky z kamene — Liberec",
+      "metaDescription": "Desky z granitu, mramoru, kvarcitu a křemenného konglomerátu PACIFIC. Zaměření u zákazníka, zpracování ve vlastní provozovně, montáž.",
+      "title": "Kuchyňské a koupelnové desky",
+      "lead": "Desky z granitu, mramoru, kvarcitu a křemenného konglomerátu. Odolné vůči vysokým teplotám, poškrábání i zašpinění — v kuchyni, kde se skutečně vaří, to není doplněk, ale podmínka.",
+      "body": "Desku používáte denně po mnoho let, takže nerozhoduje jen barva. Granit a kvarcit jsou tvrdé a prakticky nevnímavé k horkému nádobí. Křemenný konglomerát PACIFIC dává jednolitou kresbu a plnou odolnost proti skvrnám, i u světlých mramorových dekorů. Mramor volíme tam, kde je vzhled důležitější než úplná bezúdržbovost — a říkáme to otevřeně před objednávkou.",
+      "features": {
+        "one": "Kuchyňské desky, ostrůvky, barové desky a parapety ve stejném materiálu",
+        "two": "Koupelnové desky pro umyvadla na desku i pod desku",
+        "three": "Výřezy pro dřez, indukční desku, baterii a zásuvky",
+        "four": "Úprava hran: přímé, zkosené, zaoblené, zdvojené",
+        "five": "Zástěny a plné obklady mezi skříňkami"
+      }
+    },
+    "windowsills": {
+      "metaTitle": "Granitové parapety vnitřní i venkovní — Liberec",
+      "metaDescription": "Parapety z granitu odolné proti kyselým dešťům a UV záření. Povrch leštěný, broušený, kartáčovaný nebo opalovaný.",
+      "title": "Granitové parapety",
+      "lead": "Vnitřní i venkovní parapety z přírodního kamene. Odolné proti kyselým dešťům, mrazu a UV záření — nežloutnou a neodbarvují se jako parapety z mramorového konglomerátu.",
+      "body": "Venkovní parapet pracuje v nejtěžších podmínkách z celé stavby: stéká po něm voda, v zimě mrzne, v létě se rozpaluje na slunci. Granit to snáší bez změn, proto u vnějších oken levnější materiály nedoporučujeme. Uvnitř parapet ze stejného kamene jako deska nebo schody spojí interiér v celek. Zhotovujeme také okapnice, podřezání a úpravy pro rolety.",
+      "features": {
+        "one": "Vnitřní parapety v libovolné délce, na přání spojené bez viditelné spáry",
+        "two": "Venkovní parapety s okapnicí, která odvádí vodu od fasády",
+        "three": "Výřezy a podřezání pro ostění, rolety a radiátory",
+        "four": "Povrch podle místa použití: leštěný, broušený nebo opalovaný",
+        "five": "Dveřní prahy a podokenní desky ze stejného materiálu"
+      }
+    },
+    "stairs": {
+      "metaTitle": "Granitové schody vnitřní i venkovní — Liberec",
+      "metaDescription": "Schody z granitu s protiskluzovou úpravou. Stupnice, podstupnice, sokly a podesty na míru.",
+      "title": "Granitové schody",
+      "lead": "Vnitřní i venkovní schody podle konkrétního projektu a rozměru, s protiskluzovou úpravou tam, kde je potřeba.",
+      "body": "Kamenné schody se dělají jednou a vydrží desítky let, proto je zaměření důležitější než kdekoli jinde — v rozestavěném domě má každý stupeň jinou výšku. Přijedeme, zaměříme každé rameno zvlášť a teprve pak řežeme materiál. Venku je standardem opalovaný nebo kartáčovaný povrch a protiskluzové drážky, uvnitř většinou leštěný nebo broušený. Zhotovujeme stupnice, podstupnice, sokly, podesty i schodnice.",
+      "features": {
+        "one": "Stupnice a podstupnice na míru, také trapézové a vřetenové",
+        "two": "Drážky a protiskluzové pásy na venkovních stupních",
+        "three": "Sokly, podlahové lišty a schodnice ze stejného kamene",
+        "four": "Podesty a mezipodesty z velkoformátových desek",
+        "five": "Venkovní schody s opalovaným nebo kartáčovaným povrchem"
+      }
+    },
+    "fireplaces": {
+      "metaTitle": "Obklady krbů z granitu a mramoru — Liberec",
+      "metaDescription": "Krbové obklady z přírodního kamene pro otevřené krby, krbové vložky a samostatně stojící kamna. Návrh a montáž.",
+      "title": "Obklady krbů",
+      "lead": "Obklady z granitu a mramoru pro otevřené krby, krbové vložky a samostatně stojící kamna — od jednoduchých moderních hmot po klasické formy.",
+      "body": "Kámen u krbu pracuje ve vysokých teplotách a musí snést opakované nahřívání a chladnutí. Granit a vybrané mramory to zvládnou bez trhlin a navíc akumulují teplo, které vydávají ještě dlouho po dohoření. Obklad navrhujeme pro konkrétní vložku — s odstupy požadovanými výrobcem — a montujeme včetně police, podstavy a rámu ohniště.",
+      "features": {
+        "one": "Obklady pro krbové vložky všech výrobců",
+        "two": "Podlahové desky a podstavy pod samostatně stojící kamna",
+        "three": "Krbové police a římsy z jednoho kusu kamene",
+        "four": "Rámy ohniště u otevřených krbů",
+        "five": "Obklady stěn okolo krbu ladící s obkladem"
+      }
+    }
+  },
+  "stones": {
+    "metaTitle": "Katalog kamene — druhy granitu a křemenné konglomeráty PACIFIC",
+    "metaDescription": "Několik desítek druhů granitu a křemenné konglomeráty PACIFIC. Filtrujte podle barvy a druhu materiálu, zjistěte dostupnost.",
+    "title": "Katalog kamene",
+    "lead": "Několik desítek druhů granitu a křemenného konglomerátu z naší stálé nabídky. Materiál dovážíme přímo z kamenolomů, takže většina položek je ihned k dispozici ze skladu.",
+    "body": "Fotografie vzorků zachycují kresbu i odstín, ale přírodní kámen není nikdy stejný po celé desce — dvě desky téhož druhu se mohou lišit vedením žilek a sytostí barvy. U větších zakázek vás proto zveme do skladu, abyste vybrali konkrétní desku. Křemenné konglomeráty PACIFIC jsou v tomto ohledu opakovatelné: kresba je na každé desce jednolitá.",
+    "filterMaterial": "Druh materiálu",
+    "filterColor": "Barva",
+    "all": "Vše",
+    "resultsAll": "Všechny druhy",
+    "empty": "Žádný kámen neodpovídá zvoleným kritériím.",
+    "reset": "Zrušit filtry",
+    "materials": {
+      "granit": "Granit",
+      "konglomerat": "Křemenný konglomerát"
+    },
+    "colors": {
+      "czarny": "Černá",
+      "grafitowy": "Antracitová",
+      "szary": "Šedá",
+      "jasny": "Světlá",
+      "bezowy": "Béžová",
+      "brazowy": "Hnědá",
+      "czerwony": "Červená",
+      "zielony": "Zelená",
+      "niebieski": "Modrá",
+      "wielokolorowy": "Vícebarevná"
+    },
+    "finishes": {
+      "polerowany": "Leštěný",
+      "satynowy": "Saténový"
+    },
+    "sampleNote": "Barvy na obrazovce se mohou od skutečnosti lišit. Před objednávkou se vyplatí prohlédnout vzorek na místě.",
+    "ctaTitle": "Nevíte, který kámen vybrat?",
+    "ctaBody": "Napište nám, k čemu má sloužit — náhrobek, deska, parapety — a doporučíme, které druhy se osvědčí nejlépe a co máme právě na skladě."
+  },
+  "granites": {
+    "metaTitle": "Žulové desky — katalog druhů",
+    "metaDescription": "Několik desítek druhů granitu na náhrobky, kuchyňské desky, parapety a schody. Filtrujte podle barvy a zjistěte dostupnost ve skladu ve Zgorzelci.",
+    "title": "Žulové desky",
+    "lead": "Druhy granitu z naší stálé nabídky. Materiál dovážíme přímo z kamenolomů, takže většina položek je ihned k dispozici ze skladu.",
+    "body": "Fotografie vzorků zachycují kresbu i odstín, ale přírodní kámen není nikdy stejný po celé desce — dvě desky téhož druhu se mohou lišit vedením žilek a sytostí barvy. U větších zakázek vás proto zveme do skladu, abyste vybrali konkrétní desku.",
+    "siblingCta": "Zobrazit křemenné konglomeráty Pacific",
+    "ctaTitle": "Nevíte, kterou žulu vybrat?",
+    "ctaBody": "Napište nám, k čemu má sloužit — náhrobek, deska, parapety — a doporučíme, které druhy se osvědčí nejlépe a co máme právě na skladě."
+  },
+  "conglomerates": {
+    "metaTitle": "Křemenné konglomeráty Pacific — katalog dekorů",
+    "metaDescription": "Křemenné konglomeráty Pacific na kuchyňské desky, ostrovy a koupelny. Kresba je na celé desce stejná. Filtrujte podle barvy a zjistěte dostupnost.",
+    "title": "Křemenné konglomeráty Pacific",
+    "lead": "Křemenný konglomerát Pacific je opakovatelný: kresba vypadá na každé desce stejně. Hodí se na kuchyňské desky, ostrovy a koupelnové sestavy.",
+    "body": "Na rozdíl od granitu konglomerát nemá přírodní žilky, které se mění od desky k desce. Aranžmá na fotografii odpovídá tomu, co dostanete u sebe. Dekory z této kolekce ukazujeme také v hotových interiérech — v záložce Vizualizace.",
+    "siblingCta": "Zobrazit žulové desky",
+    "ctaTitle": "Hledáte dekor na kuchyňskou desku?",
+    "ctaBody": "Napište nám rozměry a účel — doporučíme, které dekory Pacific se osvědčí v kuchyni nebo koupelně a co máme právě na skladě."
+  },
+  "gallery": {
+    "metaTitle": "Realizace — galerie granitových náhrobků",
+    "metaDescription": "Více než čtyři sta fotografií náhrobků, které jsme zhotovili, rozdělených podle typů: moderní, mauzolea, hroby v zemi, dvojité, urnové a dětské.",
+    "title": "Realizace",
+    "lead": "Fotografie náhrobků, které jsme zhotovili a namontovali. Rozdělili jsme je podle typů — snáz tak najdete formu odpovídající konkrétnímu hrobovému místu.",
+    "allTypes": "Všechny typy",
+    "typesTitle": "Typy náhrobků",
+    "countLabel": "{count, plural, one {# fotografie} few {# fotografie} other {# fotografií}}",
+    "photoAlt": "{type} — realizace Polonia Granit č. {index}",
+    "backToAll": "Zpět na všechny typy",
+    "typeMetaTitle": "{type} — realizace Polonia Granit",
+    "note": "Každý náhrobek zhotovujeme na míru konkrétního místa, berte proto fotografie jako inspiraci, ne jako uzavřený katalog vzorů. Formu i písmo určujeme individuálně.",
+    "types": {
+      "nowoczesne": {
+        "name": "Moderní náhrobky",
+        "description": "Čisté hmoty, úsporná forma, velké plochy leštěného kamene."
+      },
+      "grobowce": {
+        "name": "Mauzolea",
+        "description": "Náhrobky s hrobovou komorou, vyzděnou pod deskou a obloženou kamenem."
+      },
+      "ziemne": {
+        "name": "Hroby v zemi",
+        "description": "Klasická forma s obrubou a místem pro osázení rostlinami."
+      },
+      "podwojne": {
+        "name": "Dvojité hroby",
+        "description": "Náhrobky pro dvě osoby — v zemní i mauzoleové podobě."
+      },
+      "ukosne": {
+        "name": "Šikmé náhrobky",
+        "description": "Deska sklopená pod úhlem, obvyklá především na německých hřbitovech."
+      },
+      "urnowe": {
+        "name": "Urnové hroby",
+        "description": "Menší formy určené pro urnové pohřbení."
+      },
+      "dzieciece": {
+        "name": "Dětské náhrobky",
+        "description": "Jemnější formy a menší rozměry, často s individuální výzdobou."
+      },
+      "niemieckie": {
+        "name": "Náhrobky v německém standardu",
+        "description": "Proporce, obruby i způsob montáže podle požadavků hřbitovů v Německu."
+      },
+      "czeskie": {
+        "name": "Náhrobky v českém standardu",
+        "description": "Formy typické pro české hřbitovy s charakteristickou obrubou."
+      },
+      "blaty": {
+        "name": "Kuchyňské desky",
+        "description": "Desky z žuly a křemenného konglomerátu — naše realizace v kuchyních zákazníků."
+      },
+      "schody": {
+        "name": "Žulové schody",
+        "description": "Vnitřní i venkovní schody z kamene, přizpůsobené domu a terénu."
+      },
+      "pozostale": {
+        "name": "Další realizace",
+        "description": "Práce, které se nevejdou do ostatních kategorií."
+      }
+    },
+    "lightbox": {
+      "close": "Zavřít",
+      "prev": "Předchozí fotografie",
+      "next": "Následující fotografie",
+      "counter": "{current} z {total}",
+      "openHint": "Zvětšit fotografii"
+    }
+  },
+  "about": {
+    "metaTitle": "O nás — kamenictví ze Zgorzelce",
+    "metaDescription": "Polonia Granit je rodinná kamenická firma ze Zgorzelce s více než 20 lety zkušeností. Vlastní výroba, montáž a komplexní povrchová úprava.",
+    "title": "O nás",
+    "lead": "Rodinná kamenická firma ze Zgorzelce, která působí na polském, německém i českém trhu. Vyrábíme a montujeme náhrobky, parapety, schody a žulové desky.",
+    "body1": "Nabízíme celou škálu kamenických služeb: vlastní výrobu, montáž i komplexní povrchovou úpravu. Své postavení na trhu jsme si vybudovali za více než 20 let a tyto zkušenosti se promítají do kvality práce.",
+    "body2": "Kámen považujeme za materiál s velmi širokým využitím a stále hledáme nová řešení, jak jej použít. Sledujeme novinky a trendy v oboru a nabídku rozšiřujeme podle toho, na co se zákazníci ptají.",
+    "body3": "Díky dlouholetým zkušenostem vám pomůžeme s rozhodnutím a se správnou volbou. Poradíme s výběrem kamene, formy i povrchové úpravy — tak, aby výsledek nepotřeboval úpravy.",
+    "offerTitle": "V naší nabídce najdete",
+    "offerItems": {
+      "tombstones": "žulové náhrobky",
+      "windowsills": "vnitřní a vnější parapety",
+      "stairs": "schody",
+      "countertops": "kuchyňské a koupelnové desky",
+      "fireplaces": "obklady krbů",
+      "more": "a zpracování kamene na míru"
+    },
+    "galleryTitle": "Provoz a sklad",
+    "gallerySubtitle": "Zpracování i montáž provádíme sami — nezadáváme je dál."
+  },
+  "visualisations": {
+    "metaTitle": "Vizualizace — křemenné konglomeráty PACIFIC v interiérech",
+    "metaDescription": "Fotografie křemenných konglomerátů PACIFIC v realizacích: kuchyňské desky, ostrůvky a koupelny. Podívejte se, jak každý dekor vypadá v hotovém interiéru.",
+    "title": "Vizualizace",
+    "lead": "Křemenné konglomeráty PACIFIC v hotových interiérech. Vzorek ukáže kresbu zblízka, ale až celá plocha prozradí, jak se kámen bude chovat v kuchyni nebo koupelně.",
+    "body": "Všechny dekory z této galerie máme v katalogu křemenných konglomerátů Pacific. Konglomerát je opakovatelný — deska vypadá stejně po celé ploše, takže interiér na fotografii odpovídá tomu, co dostanete u sebe.",
+    "note": "Fotografie realizací pocházejí od výrobce desek PACIFIC.",
+    "stonesCta": "Zobrazit katalog konglomerátů Pacific"
+  },
+  "kitchenViz": {
+    "metaTitle": "Kámen ve vaší kuchyni — vizualizace desky z fotografie",
+    "metaDescription": "Nahrajte fotografii kuchyně a podívejte se, jak by vypadala deska i stěna ze žuly nebo křemenného konglomerátu Pacific. Dvě bezplatné vizualizace denně.",
+    "title": "Kámen ve vaší kuchyni",
+    "lead": "Fotografie kuchyně plus vybraná deska. Připravíme náhled desky a obkladu stěny — ještě před zaměřením.",
+    "body": "Jde o náhled, ne o fotografii hotové realizace. Kámen klademe na desku i na stěnu mezi deskou a horními skříňkami, jako při skutečné montáži. Konglomeráty Pacific mají opakovatelnou kresbu, proto je vizualizace blízko skutečnosti. U žuly se žilky na konkrétní desce vždy trochu liší — proto zveme do skladu.",
+    "steps": {
+      "photo": "Nahrajte fotografii kuchyně s viditelnou deskou.",
+      "stone": "Vyberte kámen z katalogu.",
+      "result": "Dostanete náhled. Potom nezávaznou kalkulaci."
+    },
+    "uploadLabel": "Fotografie kuchyně",
+    "uploadHint": "Klikněte a vyberte fotografii nebo ji pořiďte telefonem. JPEG, PNG nebo WebP, do 8 MB.",
+    "uploadChange": "Klikněte na náhled a vložte jinou fotografii.",
+    "stonesLabel": "Kámen na desku a stěnu",
+    "materialPacific": "Konglomeráty Pacific",
+    "materialGranite": "Žulové desky",
+    "graniteNote": "Žula je přírodní kámen — kresba na vizualizaci je přiblížení, ne kopie konkrétní desky.",
+    "generate": "Zobrazit vizualizaci",
+    "generating": "Připravujeme náhled…",
+    "generatingHint": "Obvykle to trvá 15–30 sekund. Stránku nezavírejte.",
+    "remaining": "Zbývá {count} z {limit} vizualizací na dnešek.",
+    "unlimited": "Testovací režim — bez denního limitu.",
+    "consent": "Fotografie kuchyně se odešle grafickému modelu pouze proto, abychom připravili náhled. Neukládáme ji natrvalo. Podrobnosti v <privacy>zásadách ochrany osobních údajů</privacy>.",
+    "disclaimer": "Vizualizace je návrhový náhled. Barva na obrazovce závisí na monitoru a na světle na fotografii. Konečný vzhled desky určíme na desce ve skladu.",
+    "originalAlt": "Vaše fotografie kuchyně",
+    "originalCaption": "Vaše fotografie",
+    "zoomHint": "Klikněte pro zvětšení",
+    "closePreview": "Zavřít zvětšení",
+    "resultAlt": "Náhled kuchyně s deskou {stone}",
+    "resultCaption": "Náhled s kamenem {stone}",
+    "download": "Stáhnout náhled",
+    "quoteCta": "Požádat o kalkulaci této desky",
+    "quoteHint": "K poptávce můžete přiložit tento obrázek.",
+    "selectedStone": "Vybraný kámen: {stone}",
+    "ctaTitle": "Náhled sedí?",
+    "ctaBody": "Napište nebo zavolejte. Přijedeme na zaměření a připravíme kalkulaci bez závazků.",
+    "errors": {
+      "photo": "Přidejte fotografii kuchyně.",
+      "stone": "Vyberte kámen z katalogu.",
+      "consent": "K přípravě náhledu potřebujeme souhlas.",
+      "type": "Povolujeme JPEG, PNG a WebP.",
+      "tooLarge": "Fotografie může mít nejvýše 8 MB.",
+      "rate": "Na dnešek jste využili oba náhledy. Zítra to můžete zkusit znovu — nebo rovnou napsat o kalkulaci.",
+      "unconfigured": "Vizualizace čeká na klíč OpenAI na serveru. Poptávkový formulář funguje bez něj.",
+      "generic": "Náhled se nepodařilo připravit. Zkuste jinou fotografii nebo nám napište."
+    }
+  },
+  "faq": {
+    "metaTitle": "Otázky a odpovědi — náhrobky, desky a parapety ze žuly",
+    "metaDescription": "Odpovědi na nejčastější dotazy: zaměření, montáž na německých a českých hřbitovech, rozdíl mezi žulou a křemenným konglomerátem, péče o kámen.",
+    "title": "Otázky a odpovědi",
+    "lead": "Shrnuli jsme dotazy, které při prvním hovoru slýcháme nejčastěji. Pokud tu něco chybí, stačí zavolat.",
+    "items": {
+      "measure": {
+        "q": "Přijedete na zaměření?",
+        "a": "Ano, zaměření provádíme na místě a je běžnou součástí každé zakázky. Měříme i netypické tvary, oblouky a zkosení — deska nebo parapet pak sedne hned napoprvé, bez dodatečných úprav na místě."
+      },
+      "abroad": {
+        "q": "Montujete náhrobky na německých a českých hřbitovech?",
+        "a": "Ano. Obsluhujeme zákazníky v Polsku, Německu i Česku a náhrobky zhotovujeme podle standardů hřbitovů na obou stranách hranice — s odpovídajícími proporcemi, obrubou a způsobem montáže."
+      },
+      "granite": {
+        "q": "Jaký je rozdíl mezi žulou a křemenným konglomerátem?",
+        "a": "Žula je přírodní kámen — každá deska má vlastní kresbu žilek, dvě desky téhož druhu tedy nikdy nejsou totožné. Křemenný konglomerát je vyráběný materiál s jednolitou kresbou po celé ploše. Na náhrobky a venkovní prvky doporučujeme žulu, na kuchyňské desky se osvědčí oba materiály."
+      },
+      "finishes": {
+        "q": "Jaké povrchové úpravy jsou k dispozici?",
+        "a": "Leštěná, broušená, kartáčovaná a pálená, u křemenných konglomerátů PACIFIC navíc saténová. Volba má praktický dopad: leštění dává nejhlubší barvu, pálení protiskluzný povrch na venkovní schody a terasy."
+      },
+      "warehouse": {
+        "q": "Můžu si desky před objednáním prohlédnout?",
+        "a": "Ano, přijďte do skladu. U přírodního kamene je to nejrozumnější postup — na obrazovce vypadají barvy jinak a u větších zakázek se vyplatí vybrat konkrétní desku."
+      },
+      "quote": {
+        "q": "Kolik stojí kalkulace?",
+        "a": "Kalkulace je bezplatná a nezavazuje k objednávce. Rozdělujeme ji na materiál, zpracování a montáž, aby bylo vidět, za co se platí."
+      },
+      "care": {
+        "q": "Jak o kámen po montáži pečovat?",
+        "a": "Žulu stačí mýt vodou s jemným prostředkem. Vyhněte se přípravkům na bázi kyselin a octa i abrazivním práškům — zmatňují lesk. Na kuchyňské desky doporučujeme podložky pod horké nádoby, i když je kámen teplotně odolný."
+      },
+      "wholesale": {
+        "q": "Prodáváte kámen i velkoobchodně?",
+        "a": "Ano, prodej desek zajišťuje náš velkoobchod hurtowniakamienia.eu. Materiál dovážíme přímo z kamenolomů, u nás tedy neplatíte prostředníka."
+      }
+    },
+    "ctaTitle": "Nenašli jste svůj dotaz?",
+    "ctaBody": "Zavolejte nebo napište — odpovíme konkrétně na vaši zakázku."
+  },
+  "contact": {
+    "metaTitle": "Kontakt — Polonia Granit, Zgorzelec",
+    "metaDescription": "Zavolejte, napište nebo přijeďte: ul. Łużycka 89, 59-900 Zgorzelec. Otevřeno pondělí až pátek 9:00–17:00, v sobotu 9:00–13:00.",
+    "title": "Kontakt",
+    "lead": "Nejrychleji se k nám dovoláte telefonem. Můžete také napsat e-mail nebo přijet do provozu — desky rádi ukážeme na místě.",
+    "callTitle": "Zavolejte",
+    "callBody": "Čísla kanceláře. Pokud nebereme, jsme u strojů — zkuste to prosím o chvíli později.",
+    "writeTitle": "Napište",
+    "writeBody": "K e-mailu můžete hned přiložit rozměry, fotografii místa nebo výkres. Odpovídáme obvykle týž den.",
+    "visitTitle": "Přijeďte k nám",
+    "visitBody": "Sídlo firmy a sklad desek.",
+    "hoursTitle": "Provozní doba",
+    "mapCta": "Naplánovat cestu",
+    "mapTitle": "Jak k nám najdete",
+    "mapLoad": "Zobrazit mapu",
+    "mapLoadHint": "Mapa se z Google načte až po kliknutí — do té doby web jejich cookies nepoužívá.",
+    "wholesaleTitle": "Velkoobchodní prodej desek",
+    "wholesaleBody": "Velkoobchodní prodej kamene má vlastní portál — hurtowniakamienia.eu.",
+    "legalTitle": "Údaje o firmě",
+    "formTitle": "Poptávkový formulář",
+    "formLead": "Vyplňte formulář — obvykle odpovíme týž den. K zprávě můžete přiložit fotografii místa nebo výkres.",
+    "form": {
+      "name": "Jméno a příjmení",
+      "email": "E-mail",
+      "phone": "Telefon",
+      "topic": "Téma",
+      "topicPlaceholder": "Vyberte téma",
+      "message": "Zpráva",
+      "files": "Fotografie nebo výkresy (volitelně)",
+      "filesHint": "Až 3 soubory, maximálně 4 MB každý. JPEG, PNG, WebP, HEIC nebo PDF.",
+      "consent": "Souhlasím se zpracováním údajů za účelem odpovědi na poptávku. Podrobnosti v <privacy>zásadách ochrany osobních údajů</privacy>.",
+      "submit": "Odeslat poptávku",
+      "sending": "Odesílání…",
+      "successTitle": "Děkujeme za zprávu",
+      "successBody": "Poptávku jsme přijali a ozveme se co nejdříve. V naléhavých případech prosím volejte.",
+      "topics": {
+        "tombstones": "Náhrobky",
+        "countertops": "Kuchyňské desky",
+        "windowsills": "Parapety",
+        "stairs": "Schody",
+        "fireplaces": "Krby",
+        "granites": "Žulové desky",
+        "conglomerates": "Křemenné konglomeráty Pacific",
+        "other": "Jiné"
+      },
+      "errors": {
+        "name": "Zadejte jméno a příjmení (min. 2 znaky).",
+        "email": "Zadejte platnou e-mailovou adresu.",
+        "phone": "Zadejte telefonní číslo.",
+        "message": "Napište alespoň několik vět (min. 10 znaků).",
+        "consent": "Ke zodpovězení poptávky potřebujeme souhlas.",
+        "rate": "Před dalším odesláním chvíli počkejte.",
+        "generic": "Zprávu se nepodařilo odeslat. Zavolejte nebo napište e-mail.",
+        "files": {
+          "tooMany": "Lze přidat nejvýše 3 soubory.",
+          "tooLarge": "Každý soubor může mít nejvýše 4 MB.",
+          "type": "Přípustné jsou JPEG, PNG, WebP, HEIC a PDF."
+        }
+      }
+    }
+  },
+  "privacy": {
+    "metaTitle": "Ochrana osobních údajů a cookies",
+    "metaDescription": "Zásady zpracování osobních údajů a používání cookies na webu Polonia Granit.",
+    "title": "Ochrana osobních údajů a cookies",
+    "lead": "Poskytnutí osobních údajů je vždy dobrovolné. Kdykoli máte právo na přístup ke svým údajům, jejich opravu nebo výmaz.",
+    "sections": {
+      "controller": {
+        "title": "Správce údajů",
+        "body": "Správcem osobních údajů shromažďovaných tímto webem je {legalName}, {address}, DIČ (NIP) {taxId}. Kontakt: {email}."
+      },
+      "data": {
+        "title": "Jaké údaje zpracováváme",
+        "body": "Zpracováváme pouze údaje, které nám sami předáte: jméno, e-mailovou adresu, telefonní číslo, obsah dotazu a — pokud je přiložíte — fotografie a výkresy. U vizualizace kuchyně zpracováváme pouze nahranou fotografii kuchyně a výběr kamene po dobu vytvoření náhledu."
+      },
+      "purpose": {
+        "title": "Účel a právní základ",
+        "body": "Údaje zpracováváme za účelem odpovědi na dotaz a realizace zakázky (čl. 6 odst. 1 písm. b GDPR) a za účelem obchodní korespondence na základě našeho oprávněného zájmu (čl. 6 odst. 1 písm. f GDPR)."
+      },
+      "retention": {
+        "title": "Jak dlouho údaje uchováváme",
+        "body": "Korespondenci s dotazy uchováváme po dobu nutnou k vyřízení věci. Pokud dojde k realizaci zakázky, platí lhůty stanovené daňovými a účetními předpisy."
+      },
+      "recipients": {
+        "title": "Komu údaje předáváme",
+        "body": "Údaje z formuláře se dostanou k poskytovatelům, kteří zajišťují provoz webu a odesílání e-mailů: poskytovateli hostingu a poskytovateli e-mailové služby. Fotografie kuchyně z vizualizace se předává společnosti OpenAI výhradně kvůli vytvoření náhledu a my ji neukládáme. Údaje neprodáváme ani je nepředáváme pro marketingové účely. Výjimkou jsou situace, kdy platné právo ukládá jejich předání státním orgánům."
+      },
+      "visualization": {
+        "title": "Vizualizace kuchyně",
+        "body": "Nástroj „Kámen v kuchyni“ odesílá fotografii kuchyně a vzorek vybraného kamene grafickému modelu OpenAI, aby připravil náhled desky. Souhlas je dobrovolný. Fotografii po vytvoření náhledu na našich serverech neukládáme. Limit dvou vizualizací denně slouží jen jako ochrana před zneužitím."
+      },
+      "cookies": {
+        "title": "Cookies",
+        "body": "Tento web nepoužívá reklamní ani analytické cookies. Ukládáme technický soubor s vybranou jazykovou verzí a — při použití vizualizace kuchyně — technické počitadlo denních pokusů. Na úvodní stránce a na stránce kontaktu je vložená mapa Google, která může nastavit cookies Google. Cookies můžete kdykoli smazat nebo zablokovat v nastavení prohlížeče."
+      },
+      "rights": {
+        "title": "Vaše práva",
+        "body": "Máte právo na přístup ke svým údajům, jejich opravu, výmaz a omezení zpracování, právo vznést námitku, právo na přenositelnost údajů i právo kdykoli odvolat souhlas. Máte také právo podat stížnost u příslušného dozorového úřadu pro ochranu osobních údajů."
+      },
+      "changes": {
+        "title": "Změny těchto zásad",
+        "body": "Vyhrazujeme si právo tyto zásady změnit, pokud to bude vyžadovat platné právo nebo se změní technické podmínky provozu webu. Aktuální verzi najdete vždy na této adrese."
+      },
+      "contact": {
+        "title": "Kontakt ve věci údajů",
+        "body": "Ve věcech osobních údajů napište na {email} nebo se na nás obraťte na adrese sídla."
+      }
+    }
+  }
+}
