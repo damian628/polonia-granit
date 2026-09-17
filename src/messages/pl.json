@@ -401,17 +401,17 @@
     "ctaBody": "Napiszcie wymiary i przeznaczenie — podpowiemy, które dekory Pacific sprawdzą się w kuchni albo łazience i które mamy teraz na magazynie."
   },
   "gallery": {
-    "metaTitle": "Realizacje — galeria nagrobków granitowych",
-    "metaDescription": "Ponad czterysta zdjęć wykonanych przez nas nagrobków, podzielonych na typy: nowoczesne, grobowce, ziemne, podwójne, urnowe i dziecięce.",
+    "metaTitle": "Realizacje — galeria nagrobków, blatów i schodów",
+    "metaDescription": "Zdjęcia naszych realizacji: nagrobki, blaty kuchenne i schody granitowe. Podzielone na typy, żeby łatwiej było znaleźć konkretną formę.",
     "title": "Realizacje",
-    "lead": "Zdjęcia nagrobków, które wykonaliśmy i zamontowaliśmy. Podzieliliśmy je na typy — łatwiej wtedy znaleźć formę odpowiadającą konkretnemu miejscu na cmentarzu.",
+    "lead": "Zdjęcia nagrobków, blatów i schodów, które wykonaliśmy. Podzieliliśmy je na typy — łatwiej wtedy znaleźć formę odpowiadającą konkretnemu zleceniu.",
     "allTypes": "Wszystkie typy",
-    "typesTitle": "Typy nagrobków",
+    "typesTitle": "Typy realizacji",
     "countLabel": "{count, plural, one {# zdjęcie} few {# zdjęcia} many {# zdjęć} other {# zdjęcia}}",
     "photoAlt": "{type} — realizacja Polonia Granit nr {index}",
     "backToAll": "Wróć do wszystkich typów",
     "typeMetaTitle": "{type} — realizacje Polonia Granit",
-    "note": "Każdy nagrobek wykonujemy na wymiar konkretnego miejsca, więc zdjęcia traktujcie jako inspirację, a nie zamknięty katalog wzorów. Formę i liternictwo ustalamy indywidualnie.",
+    "note": "Każdą realizację wykonujemy na wymiar, więc zdjęcia traktujcie jako inspirację, a nie zamknięty katalog wzorów. Formę i wykończenie ustalamy indywidualnie.",
     "types": {
       "nowoczesne": {
         "name": "Nagrobki nowoczesne",

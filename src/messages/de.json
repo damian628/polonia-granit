@@ -401,17 +401,17 @@
     "ctaBody": "Schreiben Sie uns Maße und Verwendung — wir sagen Ihnen, welche Pacific-Dekore sich in Küche oder Bad bewähren und was aktuell am Lager liegt."
   },
   "gallery": {
-    "metaTitle": "Referenzen — Galerie unserer Grabsteine aus Granit",
-    "metaDescription": "Über vierhundert Fotos von uns gefertigter Grabsteine, geordnet nach Art: moderne, Mausoleen, Erdgräber, Doppel-, Urnen- und Kindergrabmale.",
+    "metaTitle": "Referenzen — Galerie von Grabsteinen, Arbeitsplatten und Treppen",
+    "metaDescription": "Fotos unserer Arbeiten: Grabsteine, Küchenarbeitsplatten und Granittreppen. Nach Art geordnet, damit Sie leichter die passende Form finden.",
     "title": "Referenzen",
-    "lead": "Fotos von Grabsteinen, die wir gefertigt und montiert haben. Wir haben sie nach Arten geordnet — so finden Sie leichter die Form, die zur konkreten Grabstelle passt.",
+    "lead": "Fotos von Grabsteinen, Arbeitsplatten und Treppen, die wir gefertigt haben. Wir haben sie nach Arten geordnet — so finden Sie leichter die Form, die zum konkreten Auftrag passt.",
     "allTypes": "Alle Arten",
-    "typesTitle": "Grabsteinarten",
+    "typesTitle": "Arten der Arbeiten",
     "countLabel": "{count, plural, one {# Foto} other {# Fotos}}",
     "photoAlt": "{type} — Arbeit von Polonia Granit Nr. {index}",
     "backToAll": "Zurück zu allen Arten",
     "typeMetaTitle": "{type} — Referenzen von Polonia Granit",
-    "note": "Jeden Grabstein fertigen wir auf das Maß der konkreten Grabstelle, betrachten Sie die Fotos daher als Anregung und nicht als abgeschlossenen Musterkatalog. Form und Schrift legen wir individuell fest.",
+    "note": "Jede Arbeit fertigen wir auf Maß, betrachten Sie die Fotos daher als Anregung und nicht als abgeschlossenen Musterkatalog. Form und Ausführung legen wir individuell fest.",
     "types": {
       "nowoczesne": {
         "name": "Moderne Grabsteine",

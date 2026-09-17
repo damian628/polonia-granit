@@ -70,10 +70,11 @@ export default async function Page({ params }: PageProps) {
             <div className="reveal">
               {portrait ? (
                 <div className="mb-8 overflow-hidden rounded-lg bg-stone-200">
-                  <div className="aspect-4/3">
+                  <div className="relative aspect-4/3">
                     <SiteImageView
                       image={portrait}
                       alt={t('title')}
+                      fill
                       sizes="(min-width: 1024px) 460px, 92vw"
                     />
                   </div>
@@ -111,10 +112,11 @@ export default async function Page({ params }: PageProps) {
                   key={image.src}
                   className="reveal-zoom overflow-hidden rounded-lg bg-stone-200"
                 >
-                  <div className="aspect-square">
+                  <div className="relative aspect-square">
                     <SiteImageView
                       image={image}
                       alt={`${t('galleryTitle')} — ${index + 1}`}
+                      fill
                       sizes="(min-width: 1280px) 300px, (min-width: 640px) 24vw, 47vw"
                     />
                   </div>

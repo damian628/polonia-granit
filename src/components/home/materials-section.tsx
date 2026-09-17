@@ -59,6 +59,7 @@ export function MaterialsSection() {
                       <SiteImageView
                         image={image}
                         alt={title}
+                        fill
                         sizes="(min-width: 1024px) 45vw, 100vw"
                         className="transition-transform duration-700 ease-out-soft group-hover:scale-[1.04]"
                       />

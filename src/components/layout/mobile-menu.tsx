@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 
 import { LanguageSwitcher } from '@/components/layout/language-switcher';
 import { Logo } from '@/components/layout/logo';
@@ -21,15 +21,17 @@ import { fullAddress, site } from '@/lib/site';
 export function MobileMenu() {
   const [isOpen, setIsOpen] = useState(false);
   const pathname = usePathname();
+  const locale = useLocale();
   const t = useTranslations('nav');
   const tc = useTranslations('common');
 
-  // Zamykamy panel po przejściu na inną podstronę. Korygujemy stan jeszcze
-  // w trakcie renderu, a nie w efekcie - inaczej React musiałby przerysować
-  // otwarty panel na nowej podstronie, żeby dopiero potem go schować.
-  const [lastPathname, setLastPathname] = useState(pathname);
-  if (pathname !== lastPathname) {
-    setLastPathname(pathname);
+  // Zamykamy panel po przejściu na inną podstronę albo zmianie języka.
+  // `usePathname` z next-intl zwraca wzorzec bez prefiksu locale, więc sam
+  // pathname nie zmienia się przy `/kontakt` → `/de/kontakt`.
+  const locationKey = `${locale}:${pathname}`;
+  const [lastLocation, setLastLocation] = useState(locationKey);
+  if (locationKey !== lastLocation) {
+    setLastLocation(locationKey);
     setIsOpen(false);
   }
 

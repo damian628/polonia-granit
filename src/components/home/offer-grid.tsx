@@ -47,6 +47,7 @@ export function OfferGrid() {
                       <SiteImageView
                         image={image}
                         alt={title}
+                        fill
                         sizes={
                           index === 0
                             ? '(min-width: 1024px) 55vw, (min-width: 640px) 50vw, 100vw'

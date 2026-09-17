@@ -4,6 +4,7 @@ import { useParams } from 'next/navigation';
 import { useLocale, useTranslations } from 'next-intl';
 
 import { ChevronDownIcon, GlobeIcon } from '@/components/ui/icons';
+import { typeBySlug } from '@/data/gallery';
 import { Link, usePathname } from '@/i18n/navigation';
 import { locales, type Locale } from '@/i18n/routing';
 import { cn } from '@/lib/cn';
@@ -58,9 +59,11 @@ export function LanguageSwitcher({ tone = 'dark' }: { tone?: 'dark' | 'light' })
         {locales.map((locale) => (
           <Link
             key={locale}
-            // `pathname` to wewnętrzny wzorzec (np. `/kamieniarstwo/[city]`),
-            // dlatego dokładamy `params` z bieżącego adresu.
-            href={{ pathname, params } as Parameters<typeof Link>[0]['href']}
+            // `pathname` to wewnętrzny wzorzec (np. `/realizacje/[typ]`).
+            // Wartość `[typ]` też jest przetłumaczona, więc przy zmianie języka
+            // podstawiamy slug docelowy — inaczej DE `doppelgraeber` ląduje
+            // na polskim `/realizacje/doppelgraeber` i kończy się 404.
+            href={hrefForLocale(pathname, params, activeLocale, locale)}
             locale={locale}
             hrefLang={locale}
             className={cn(
@@ -79,4 +82,27 @@ export function LanguageSwitcher({ tone = 'dark' }: { tone?: 'dark' | 'light' })
       </div>
     </div>
   );
+}
+
+function hrefForLocale(
+  pathname: ReturnType<typeof usePathname>,
+  params: ReturnType<typeof useParams>,
+  fromLocale: Locale,
+  toLocale: Locale,
+): Parameters<typeof Link>[0]['href'] {
+  if (pathname === '/realizacje/[typ]') {
+    const typ = typeof params.typ === 'string' ? params.typ : undefined;
+    const type = typ ? typeBySlug(typ, fromLocale) : undefined;
+    if (type) {
+      return {
+        pathname: '/realizacje/[typ]',
+        params: { typ: type.slugs[toLocale] },
+      };
+    }
+  }
+
+  const rest = { ...params };
+  delete rest.locale;
+
+  return { pathname, params: rest } as Parameters<typeof Link>[0]['href'];
 }

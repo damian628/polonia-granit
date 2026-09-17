@@ -1,10 +1,12 @@
+import Script from 'next/script';
+
 /**
  * Fallback animacji wejścia dla przeglądarek bez scroll-driven animations
  * (głównie Firefox i starsze Safari). W Chrome, Edge i Safari 26+ ten skrypt
  * natychmiast się kończy i nie robi nic.
  *
- * Świadomie jako surowy `<script>`, nie komponent kliencki: waży kilkaset
- * bajtów, wykonuje się przed hydracją i nie dokłada nic do bundla React.
+ * `next/script` zamiast surowego `<script>`: React 19 nie wykonuje tagów
+ * `<script>` wyrenderowanych w komponencie i zgłasza błąd w overlayu.
  */
 const script = `
 (function () {
@@ -54,9 +56,8 @@ const script = `
 
 export function RevealFallback() {
   return (
-    <script
-      // Statyczny, zaufany kod - nie wstawiamy tu żadnych danych z zewnątrz.
-      dangerouslySetInnerHTML={{ __html: script }}
-    />
+    <Script id="reveal-fallback" strategy="afterInteractive">
+      {script}
+    </Script>
   );
 }

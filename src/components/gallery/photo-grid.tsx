@@ -37,6 +37,7 @@ export function PhotoGrid({ images, alt, hint }: PhotoGridProps) {
                   <SiteImageView
                     image={image}
                     alt={label}
+                    fill
                     // Siatka nie rozciąga się ponad 1280 px, więc powyżej tej
                     // szerokości kafel ma stałe ~300 px - podajemy piksele,
                     // żeby `next/image` nie serwował dwa razy większego pliku.

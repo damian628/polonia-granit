@@ -166,7 +166,8 @@ async function optimize(job: Job): Promise<OptimizedImage> {
   const rotated = await sharp(buffer).rotate().toBuffer({ resolveWithObject: true });
 
   let source = rotated.data;
-  let { width, height } = rotated.info;
+  const { width } = rotated.info;
+  let { height } = rotated.info;
 
   if (job.cropBottom) {
     const cut = Math.round(height * job.cropBottom);

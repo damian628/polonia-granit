@@ -72,6 +72,7 @@ export default async function Page({ params }: PageProps) {
                         <SiteImageView
                           image={cover}
                           alt={t(`types.${type.id}.name`)}
+                          fill
                           sizes="(min-width: 1280px) 400px, (min-width: 1024px) 31vw, (min-width: 640px) 47vw, 92vw"
                           className="transition-transform duration-700 ease-out-soft group-hover:scale-[1.05]"
                         />

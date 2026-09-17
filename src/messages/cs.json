@@ -401,17 +401,17 @@
     "ctaBody": "Napište nám rozměry a účel — doporučíme, které dekory Pacific se osvědčí v kuchyni nebo koupelně a co máme právě na skladě."
   },
   "gallery": {
-    "metaTitle": "Realizace — galerie granitových náhrobků",
-    "metaDescription": "Více než čtyři sta fotografií náhrobků, které jsme zhotovili, rozdělených podle typů: moderní, mauzolea, hroby v zemi, dvojité, urnové a dětské.",
+    "metaTitle": "Realizace — galerie náhrobků, kuchyňských desek a schodů",
+    "metaDescription": "Fotografie našich realizací: náhrobky, kuchyňské desky a granitové schody. Rozdělené podle typů, abyste snáz našli konkrétní formu.",
     "title": "Realizace",
-    "lead": "Fotografie náhrobků, které jsme zhotovili a namontovali. Rozdělili jsme je podle typů — snáz tak najdete formu odpovídající konkrétnímu hrobovému místu.",
+    "lead": "Fotografie náhrobků, desek a schodů, které jsme zhotovili. Rozdělili jsme je podle typů — snáz tak najdete formu odpovídající konkrétní zakázce.",
     "allTypes": "Všechny typy",
-    "typesTitle": "Typy náhrobků",
+    "typesTitle": "Typy realizací",
     "countLabel": "{count, plural, one {# fotografie} few {# fotografie} other {# fotografií}}",
     "photoAlt": "{type} — realizace Polonia Granit č. {index}",
     "backToAll": "Zpět na všechny typy",
     "typeMetaTitle": "{type} — realizace Polonia Granit",
-    "note": "Každý náhrobek zhotovujeme na míru konkrétního místa, berte proto fotografie jako inspiraci, ne jako uzavřený katalog vzorů. Formu i písmo určujeme individuálně.",
+    "note": "Každou realizaci zhotovujeme na míru, berte proto fotografie jako inspiraci, ne jako uzavřený katalog vzorů. Formu i provedení určujeme individuálně.",
     "types": {
       "nowoczesne": {
         "name": "Moderní náhrobky",

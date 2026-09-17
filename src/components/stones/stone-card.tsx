@@ -30,6 +30,7 @@ export function StoneCard({ stone, finishLabel }: StoneCardProps) {
           <SiteImageView
             image={image}
             alt={stone.name}
+            fill
             sizes="(min-width: 1280px) 300px, (min-width: 1024px) 24vw, (min-width: 640px) 31vw, 47vw"
             className="transition-transform duration-700 ease-out-soft group-hover:scale-[1.06]"
           />

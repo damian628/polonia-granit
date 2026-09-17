@@ -35,10 +35,11 @@ export function GalleryStrip({ category, alt, limit = 8 }: GalleryStripProps) {
               key={image.src}
               className="reveal-zoom overflow-hidden rounded-2xl bg-stone-200"
             >
-              <div className="aspect-square">
+              <div className="relative aspect-square">
                 <SiteImageView
                   image={image}
                   alt={`${alt} — ${index + 1}`}
+                  fill
                   sizes="(min-width: 1024px) 22vw, (min-width: 640px) 30vw, 45vw"
                 />
               </div>
