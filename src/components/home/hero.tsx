@@ -1,20 +1,16 @@
+import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 
+import { HeroVideo } from '@/components/home/hero-video';
 import { Logo } from '@/components/layout/logo';
 import { buttonStyles } from '@/components/ui/button';
 import { Container } from '@/components/ui/container';
 import { ArrowRightIcon, CheckIcon } from '@/components/ui/icons';
-import { SiteImageView } from '@/components/ui/site-image';
-import { imageBySlug, pickImage } from '@/data/images';
 import { Link } from '@/i18n/navigation';
 import { yearsOnMarket } from '@/lib/site';
 
 export function Hero() {
   const t = useTranslations('home.hero');
-
-  // Kamieniołom granitu - jedyne zdjęcie w materiałach, które pokazuje skalę
-  // dostępu do surowca, a nie gotowy wyrób.
-  const background = imageBySlug('hero', '1') ?? pickImage('hero', 0);
 
   const badges = [
     t('badgeExperience', { years: yearsOnMarket }),
@@ -24,23 +20,21 @@ export function Hero() {
 
   return (
     <section className="relative isolate overflow-hidden bg-ink-950">
-      {/* Tło hero przez `next/image`, nie `background-image` - tylko wtedy
-          dostajemy wariant AVIF i właściwą szerokość pliku, a to zdjęcie jest
-          największym elementem nad zgięciem, czyli decyduje o LCP.
-          Parallax siedzi na opakowaniu, więc nie rusza układu strony. */}
-      {background ? (
-        <div aria-hidden="true" className="hero-parallax absolute inset-0 -z-10">
-          <SiteImageView
-            image={background}
-            alt=""
-            sizes="100vw"
-            fill
-            quality={90}
-            priority
-            className="scale-[1.02]"
-          />
-        </div>
-      ) : null}
+      {/* Klatka z filmu jest LCP. Wideo odtwarzamy tylko na desktopie i tylko
+          gdy użytkownik nie prosi o mniej ruchu — 14 MB pętli nie ciągnie
+          telefon przy słabym LTE. */}
+      <div aria-hidden="true" className="absolute inset-0 -z-10">
+        <Image
+          src="/video/hero-drone.jpg"
+          alt=""
+          fill
+          sizes="100vw"
+          quality={90}
+          priority
+          className="object-cover"
+        />
+        <HeroVideo />
+      </div>
 
       <div
         aria-hidden="true"

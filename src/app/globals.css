@@ -213,4 +213,8 @@
     opacity: 1 !important;
     transform: none !important;
   }
+
+  .hero-video {
+    display: none !important;
+  }
 }
